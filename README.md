@@ -20,7 +20,7 @@ Lesson 4. [Data Types]
 Lesson 5. [Multimodality](#multimodality)
 
 
-### Acknowledgments
+## Acknowledgments
 
 1. This manual is written to be used as teaching material for improving digital literacy among future and current teachers of English, aiming to provide an easier approach to basic Python coding.
 
@@ -30,7 +30,7 @@ Lesson 5. [Multimodality](#multimodality)
 
 [🔝](#Coding4ET)
 
-### Overview
+## Overview
 
 🐾 **The focus of this manual and goals**
 
@@ -49,7 +49,7 @@ Therefore, this manual aims to introduce Python coding in a fundamental way, foc
 
 [🔝](#Coding4ET)
 
-### Introduction
+## Introduction
 **1. What is Python?**
 
 Python is a **high-level programming language** known for its simplicity and readability, making it a popular choice for beginners as well as experienced developers. It was created by **Guido van Rossum** and first released in 1991. Python's design philosophy emphasizes **code readability with its notable use of significant whitespace.**
@@ -64,19 +64,19 @@ Python is a **high-level programming language** known for its simplicity and rea
 
 [🔝](#Coding4ET)
 
-### Getting Ready
+## Getting Ready
 
 [🔝](#Coding4ET)
 
-### Coding Basics
+## Coding Basics
 
 [🔝](#Coding4ET)
 
-### Data Types
+## Data Types
 
 [🔝](#Coding4ET)
 
-### Multimodality
+## Multimodality
 
 [🔝](#Coding4ET)
 
