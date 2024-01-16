@@ -132,6 +132,19 @@ Python operators can be classified into several categories:
 
 ## Variables
 
+### 1. What is a Variable?
+
+In Python, a variable is a container for storing data values. Unlike other programming languages, Python has no command for declaring a variable; a variable is created the moment you first assign a value to it.
+
+### Characteristics of Python Variables:
+
++ Dynamically Typed: Python automatically identifies the data type of a variable based on the type of its value, which means you don’t have to explicitly declare the data type of a variable.
++ Mutable: The value of a variable can be changed after it is created.
++ Naming Rules:
+    + Must start with a letter or the underscore character (_).
+    + Cannot start with a number.
+    + Can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).
+    + Case-sensitive (age, Age, and AGE are three different variables).
 
 [🔝](#Lesson-3-Coding-Basics)
 
