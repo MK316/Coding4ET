@@ -8,7 +8,7 @@ Python has several built-in data types that are commonly used. Here's a brief ov
 * Dictionary
 * Tuple
 
-
+---
 ### 1. Number
 + Integers (**int**): Whole numbers like 3, 100, -1.
 + Floating-point numbers (**float**): Numbers with a decimal point like 2.3, -0.1, 3.14.
