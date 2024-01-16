@@ -18,6 +18,7 @@
 [🔝](#Lesson-3-Coding-Basics)
 
 ## Comments vs codes
+**Comment cell and code cell**
 
 In Google Colab, cells can contain either code or comments. Code cells are used for writing and executing Python code. When you run a code cell, Colab processes the Python code and displays the output. Comments, on the other hand, are non-executable lines in the code, used for explaining or annotating the code for better understanding. In Python, comments are created by preceding text with a # symbol; anything following # on the line is ignored by the Python interpreter. This helps in making the code more readable and maintainable.
 
