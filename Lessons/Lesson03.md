@@ -285,7 +285,7 @@ message = greet("Alice")
 print(message)
 ```
 
-In this example, greet is a function that takes one parameter, name, and returns a greeting message.
+➡️ In this example, greet is a function that takes one parameter, name, and returns a greeting message.
 
 ### Calling a Function
 To execute a function, use the function name followed by parentheses. If the function requires parameters, you provide them inside the parentheses.
@@ -320,7 +320,7 @@ def add_numbers(number1, number2):
 result = add_numbers(10, 15)
 print("The sum is:", result)
 ```
-**Explanation:**
+**➡️ Explanation:**
 
 Defining the Function:
 
