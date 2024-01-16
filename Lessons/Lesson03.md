@@ -1,6 +1,6 @@
 # Lesson 3 Coding Basics
 
-### Key concepts
+### ⭐ Key concepts
 
 * [Comments vs. codes, Run code cell](#Comments-vs-codes)
 * [Input vs. output](#Input-vs-output)
