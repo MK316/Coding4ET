@@ -8,11 +8,27 @@ This is a course material for classes in Spring 2024.
 [Acknowledgment](###Acknowledgments)
 Overview
 
-Lesson 1. Introduction
-Lesson 2. Getting Ready
-Lesson 3. Coding Basics
-Lesson 4. Data Types
-Lesson 5. Multimodality
+Lesson 1. [Introduction]
+Lesson 2. [Getting Ready]
+Lesson 3. [Coding Basics]
+Lesson 4. [Data Types]
+Lesson 5. [Multimodality](#multimodality)
+
+
+### Introduction
+
+
+### Getting Ready
+
+
+### Coding Basics
+
+
+### Data Types
+
+
+### Multimodality
+
 
 
 ### Acknowledgments
