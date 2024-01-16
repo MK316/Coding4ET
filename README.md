@@ -11,7 +11,7 @@ This is a course material for classes in Spring 2024.
 
 Lesson 1. [Introduction](#Lesson-1-Introduction)
 
-Lesson 2. [Getting Ready](#Lesson-2-Getting Ready)
+Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
 
 Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 
