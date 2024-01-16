@@ -9,12 +9,12 @@ Python has several built-in data types that are commonly used. Here's a brief ov
 * Tuple
 
 
-### 1. Numbers:
+### 1. Number
 + Integers (**int**): Whole numbers like 3, 100, -1.
 + Floating-point numbers (**float**): Numbers with a decimal point like 2.3, -0.1, 3.14.
 + Complex numbers (complex): Numbers with a real and imaginary part, e.g., 3 + 4j.
 
-### 2. Strings (str):
+### 2. String (str):
 Textual data enclosed in single ('...'), double ("..."), or triple quotes ('''...''' or """..."""). For example, "Hello", 'Python'.
 
 ### 3. List (list):
