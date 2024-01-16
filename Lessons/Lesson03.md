@@ -115,6 +115,7 @@ Python operators can be classified into several categories:
 ### B. Comparison Operators
 
 + Equal (==): True if both operands are equal. Example: x == y
+**Note that a single equal sign (=) is used in Python to assign a value to a variable: x = 3  
 + Not Equal (!=): True if operands are not equal. Example: x != y
 + Greater than (>): True if the left operand is greater than the right operand. Example: x > y
 + Less than (<): True if the left operand is less than the right operand. Example: x < y
