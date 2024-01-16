@@ -109,6 +109,6 @@ An unordered collection of unique items. Sets are defined with curly braces, e.g
 A special type representing the absence of a value or a null value.
 
 Each data type serves a specific purpose and can be used in different scenarios in Python programming. For instance, lists and tuples are great for storing ordered collections of items, dictionaries are ideal for storing related data as key-value pairs, and sets are useful for storing unique items and performing set operations.
----
+
 
 [🔝](#Lesson-4-Data-types)
