@@ -17,7 +17,7 @@ Lesson 2. [Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/L
 + 2.3 [Markdown](#Markdown)
 + 2.4 [DIY](#Assignment01)
 
-Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
+Lesson 3. [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)
 + 3.1 [Comments vs. Codes]()
 + 3.2 [Input vs. output]()
 + 3.3 [Variables]()
@@ -25,7 +25,7 @@ Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 + 3.5 [Functions]()
 + 3.6 [Module, Library, Package](#Modules-libraries-packages)
   
-Lesson 4. [Data Types](#Lesson-4-Data-Types)
+Lesson 4. [Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)
 
 Lesson 5. [Multimodality](#multimodality)
 
