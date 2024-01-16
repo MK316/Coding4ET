@@ -31,7 +31,7 @@ Share the Colab notebooks with learners or in-class by generating shareable link
 
 + Use a code link
 + Use a QR code
-+ Use a live link (💦 Gradio)
++ Use a live link (💦 [Gradio](https://github.com/MK316/Coding4ET/blob/main/Lessons/gradio.md))
   
 
 ## 7. Collaboration:
