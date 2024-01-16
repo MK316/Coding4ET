@@ -90,12 +90,42 @@ The combination of these input and output methods makes Colab a versatile tool f
 
 
 
-
 [🔝](#Lesson-3-Coding-Basics)
 
 ## Operators
 
+Operators are special symbols in Python that carry out arithmetic or logical computation. They are essential for manipulating values and creating expressions.
 
++ Assign (=): Assigns the right side's value to the left side operand. Example: x = y
+
+### 1. Types of Operators
+
+Python operators can be classified into several categories:
+
+### A. Arithmetic Operators** 
+
++ Addition (+): Adds two operands. Example: x + y
++ Subtraction (-): Subtracts the right operand from the left operand. Example: x - y
++ Multiplication (*): Multiplies two operands. Example: x * y
++ Division (/): Divides the left operand by the right operand. Example: x / y
++ Modulus (%): Returns the remainder when the left operand is divided by the right operand. Example: x % y
++ Exponentiation (**): Raises the left operand to the power of the right operand. Example: x ** y
++ Floor Division (//): Divides and returns the integer part of the quotient. Ignores the digits after the decimal point. Example: x // y
+
+### B. Comparison Operators
+
++ Equal (==): True if both operands are equal. Example: x == y
++ Not Equal (!=): True if operands are not equal. Example: x != y
++ Greater than (>): True if the left operand is greater than the right operand. Example: x > y
++ Less than (<): True if the left operand is less than the right operand. Example: x < y
++ Greater than or equal to (>=): True if the left operand is greater than or equal to the right operand. Example: x >= y
++ Less than or equal to (<=): True if the left operand is less than or equal to the right operand. Example: x <= y
+
+### C. Logical Operators
+
++ And (and): True if both operands are true. Example: x and y
++ Or (or): True if either of the operands is true. Example: x or y
++ Not (not): True if the operand is false (complements the operand). Example: not x
 
 [🔝](#Lesson-3-Coding-Basics)
 
@@ -176,6 +206,6 @@ random_number = random.randint(1, 10)
 print("The random number is: ", random_number)
 ```
 
-[^1]: Widgets: 
+[^1]: Widgets: Widgets in Python, particularly in the context of creating graphical user interfaces (GUIs), are fundamental elements that enable interaction with the user. Widgets make it possible for users to input data, make choices, and interact with the application in a more intuitive and visual way, compared to text-based input/output in a console.
 
 [🔝](#Lesson-3-Coding-Basics)
