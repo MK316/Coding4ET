@@ -33,7 +33,8 @@ print("Hello, Python!") # this is a code line
 # This is a comment line <= This is a comment line
 # Comments can be more than one line
 
-print("Hello, Python!") # this is a code line
+print("Hello, Python!") # This is a code line
+print('This is the output') # Comment can also be written this way.
 ```
 
 [🔝](#Lesson-3-Coding-Basics)
