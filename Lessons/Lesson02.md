@@ -160,4 +160,12 @@ By completing this assignment, you will gain hands-on experience in setting up a
 Submit the URL of your GitHub repository containing "assign01.ipynb".
 
 
+
+[^1]: **Markdown (or Markdown language)** is a simple way of writing formatted text using plain text. It's popular because it's easy to learn and use. Imagine you're writing a normal text document, but you can also add some special symbols to make certain words bold, create lists, or even add links and pictures.
+
+For example, if you want to make a word bold, you wrap it in double asterisks, like this: **bold**. If you want to create a list, you just start lines with dashes or numbers. And to add a link, you put the text you want to show in square brackets and the web address in parentheses right after it.
+
+The great thing about Markdown is that it's meant to be as easy to read in its plain text form as it is in its formatted form. It's widely used in many websites and tools, like GitHub and Reddit, for writing comments, instructions, and more. For beginners, it's a friendly way to start adding some style to your text without needing to know any complex coding or web design techniques.
+
+
 [🔝](#Lesson-2-Getting-Ready)
