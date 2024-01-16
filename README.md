@@ -12,6 +12,10 @@ This is a course material for classes in Spring 2024.
 Lesson 1. [Introduction](#Lesson-1-Introduction)
 
 Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
+          * [Github](#Github)
+          * Colab
+          * Markdown
+          * DIY
 
 Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 
@@ -80,6 +84,29 @@ We will use an online platform to code in the Python language (**Colab**) and to
 : Colab, short for Google Colab, is an online tool that lets you **write and run Python code through your browser**. It is like a digital notebook that you can use for coding. The great thing about Colab is that it provides free access to powerful computing resources, which means you can work on more complex projects without needing a high-end computer. It is particularly handy for data analysis, machine learning projects, and any kind of Python programming.
 
 For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
+
+### Github
+🐣Open your account on Github
+
+* Visit the website: [https://github.com](https://github.com)
+* Create your account ID: e.g., MK316 (with your Google account)
+* Your site: github.com/*youraccountID*   e.g., [https://github.com/*MK316*](https://github.com/MK316)
+* Create a repository named 'Spring2024' with Readme.md file (see images below)
+
+🔘 Step 01: For example, click **'repositories'** and **'new'** after logging on the account MK316
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image01.png)
+
+🔘 Step 2: Then, write the name for the new repository (e.g., Spring2024/).
+
+Notes:   
+
+1. A slash after the name signifies that it is a repository, analogous to a folder.  
+2. Make the repository 'public' so that your project can be visible to anyone with the link.  
+3. Check 'Add a README file.' This action creates a readme.md file in the repository. You can later edit this file to display necessary information, similar to a web blog page.  
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image02.png)
+
 
 [🔝](#Coding4ET)
 
