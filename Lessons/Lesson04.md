@@ -44,7 +44,7 @@ Strings are sequences of characters and are used to store text.
 
 ```
 # An example of a string
-name = input()
+name = input()  # A pop-up box will appear and wait for your input. Type a name.
 print("Hello, %s!"%name)
 ```
 
