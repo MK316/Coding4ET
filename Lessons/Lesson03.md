@@ -226,12 +226,13 @@ print(f"Age: {age}")
 print(f"Height: {height} feet")
 print(f"Is a student: {is_student}")
 ```
-When you run these cells, you will see the output displayed under the cell, as follows:
+When you run the above cells, you will see the output displayed, as follows:
 
 > Name: John Doe  
 > Age: 30  
 > Height: 5.9 feet  
 > Is a student: False  
+
 
 ```
 # Cell 3: Changing Variable Value
