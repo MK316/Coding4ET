@@ -1,3 +1,5 @@
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
+
 # Lesson 3 Coding Basics
 
 ### ⭐ Key concepts
@@ -420,3 +422,5 @@ print("The random number is: ", random_number)
 [^1]: Widgets: Widgets in Python, particularly in the context of creating graphical user interfaces (GUIs), are fundamental elements that enable interaction with the user. Widgets make it possible for users to input data, make choices, and interact with the application in a more intuitive and visual way, compared to text-based input/output in a console.
 
 [🔝](#Lesson-3-Coding-Basics)
+
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
