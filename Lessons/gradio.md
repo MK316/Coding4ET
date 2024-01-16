@@ -34,12 +34,12 @@
 import gradio as gr
 
 # Define a function that takes user input and returns model predictions
-def predict_text(input_text):
+def greeting(Name):
     # Your model prediction logic here
-    return "Prediction: " + input_text
+    return "Greeting: Hello, " + Name + "!" + "\n" + "Nice to meet you. How can I help you today?"
 
 # Create a Gradio interface
-iface = gr.Interface(fn=predict_text, inputs="text", outputs="text")
+iface = gr.Interface(fn=greeting, inputs="text", outputs="text")
 
 # Launch the interface
 iface.launch()
