@@ -4,6 +4,7 @@
 
 If you're using Google Colab for coding, you can adapt the process accordingly. Google Colab is a popular platform for running Python code, particularly for machine learning and data analysis projects. Here's how you can adjust the content for creating English language apps in Colab:
 
+---
 ## 1. Plan Your App's Features:
 
 Determine what specific English language skills you want to teach or practice, such as vocabulary, grammar, pronunciation, or reading comprehension.
@@ -49,5 +50,8 @@ If you're using the apps in a classroom setting, simply share the Colab links wi
 You can gather usage data by tracking interactions within the Colab notebooks to assess learner engagement.
 
 This simplified approach allows you to leverage Google Colab's collaborative features while creating interactive English language exercises and lessons for classroom use or learners' practice without the complexities of app development and distribution.
+
+---
+# Examples (codes)
 
 🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
