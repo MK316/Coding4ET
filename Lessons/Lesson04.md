@@ -1,6 +1,6 @@
 # Lesson 4 Data types
 
-Python has several built-in data types that are commonly used. Here's a brief overview of each. However, note that we will be focusing on the data types listed below for our purpose.
+Python has several built-in data types that are commonly used. Here's a brief overview of each. Note that we will be focusing on some of the data types listed below for our purpose.
 
 * Number
 * String
