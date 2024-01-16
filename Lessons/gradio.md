@@ -19,12 +19,15 @@
 
 + Security: Gradio includes security features to prevent malicious inputs, protecting both your model and users.
 
-Here's a simple example of how to use Gradio to create a user interface for a machine learning model:
+
+📌 Here's a simple example of how to use Gradio to create a user interface for a machine learning model:
 
 ```
+# Install gradio
 !pip install gradio
 ```
-After installing is completed,
+
+📌 After installing is completed, run the code below:
 
 
 ```
