@@ -15,7 +15,7 @@ Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
 + 2.1 [Github](#Github)
 + 2.2 [Colab](#Colab)
 + 2.3 [Markdown](#Markdown)
-+ 2.4 DIY
++ 2.4 [DIY](#Assignment01)
 
 Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 
@@ -178,6 +178,54 @@ For a slightly smaller heading, use two hash symbols (##) followed by a space.
 ### Heading Level 3 (Medium Size)
 
 Use three hash symbols (###) for an even smaller heading.
+
+[🔝](#Coding4ET)
+
+## Assignment01
+2.4 DIY Setting Up GitHub and Google Colab
+
+* **Objectives:**
+
+    * Create a GitHub account.
+    * Create a new repository named "Spring2024".
+    * Create your first notebook in Google Colab.
+    * Save this notebook to your GitHub repository as "assign01.ipynb".
+
+* **Goal:**
+By completing this assignment, you will gain hands-on experience in setting up a GitHub account, creating repositories, and integrating GitHub with Google Colab. This will lay the foundation for future projects involving code sharing and collaboration.
+
+### Part 1: Create a GitHub Account
+* Visit GitHub: Go to github.com and click on “Sign up”.
+* Account Setup: Fill in your details (username, email address, and password) and follow the prompts to complete the account creation process.
+* Verify Email: Check your email inbox and click on the verification link sent by GitHub.
+
+### Part 2: Create a Repository
+* Log In to GitHub: Log in to your new GitHub account.
+* Create New Repository: Click on the "+" icon in the upper-right corner and select "New repository".
+* Repository Details:
+* Name your repository "Spring2024".
+* Choose “Public” to make it visible to others.
+* Initialize with a README (optional).
+* Create Repository: Click the “Create repository” button.
+
+### Part 3: Start with Google Colab
+* Access Google Colab: Go to Google Colab.
+* Google Account: Log in with your Google account.
+* Create New Notebook: Click on “File” > “New notebook”.
+
+### Part 4: Save Notebook to GitHub
+* Prepare Notebook: In the Colab notebook, write a simple Python code (e.g., print("Hello, Spring 2024!")).
+* Save to GitHub:
+    * Click on “File” in your notebook.
+    * Select “Save a copy in GitHub”.
+    * Authorize Colab to access your GitHub account, if prompted.
+    * Choose the "Spring2024" repository.
+    * Name the file “assign01.ipynb”.
+    * Click “OK” to save.
+
+### Submission:
+Submit the URL of your GitHub repository containing "assign01.ipynb".
+
 
 [🔝](#Coding4ET)
 
