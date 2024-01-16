@@ -15,7 +15,7 @@ Python has several built-in data types that are commonly used. Here's a brief ov
 + Complex numbers (complex): Numbers with a real and imaginary part, e.g., 3 + 4j.
 
 
-🌀**Example**
+🌀**_Example_**
 
 Numbers in Python can be integers (whole numbers) or floats (numbers with decimal points).
 
@@ -38,7 +38,7 @@ print("Average Score:", average_score)
 ### 2. String (str):
 Textual data enclosed in single ('...'), double ("..."), or triple quotes ('''...''' or """..."""). For example, "Hello", 'Python'.
 
-🌀**Example**
+🌀**_Example_**
 
 Strings are sequences of characters and are used to store text.
 
@@ -51,7 +51,7 @@ print("Hello, %s!"%name)
 ### 3. List (list):
 An ordered, mutable (changeable) collection of items. Lists are defined with square brackets, e.g., [1, 2, 3] or ['apple', 'banana', 'cherry'].
 
-🌀**Example**
+🌀**_Example_**
 
 ```
 # An example of a list
@@ -63,7 +63,7 @@ print("Favorite Books:", favorite_books)
 ### 4. Dictionary (dict):
 A collection of key-value pairs. Dictionaries are defined with curly braces containing key-value pairs separated by colons, e.g., {'name': 'Alice', 'age': 25}.
 
-🌀**Example**
+🌀**_Example_**
 ```
 # An example of a dictionary
 student_grades = {"Alice": 90, "Bob": 85, "Charlie": 95}
@@ -78,7 +78,7 @@ student_grades['Alice']
 ### 5. Tuple (tuple): 
 An ordered, immutable collection of items. Tuples are defined with parentheses, e.g., (1, 2, 3) or ('a', 'b', 'c').
 
-🌀**Example**
+🌀**_Example_**
 
 ```
 # An example of a tuple
