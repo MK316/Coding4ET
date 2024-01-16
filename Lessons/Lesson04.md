@@ -36,7 +36,7 @@ print("Average Score:", average_score)
 
 
 ### 2. String (str):
-Textual data enclosed in single ('...'), double ("..."), or triple quotes ('''...''' or """..."""). For example, "Hello", 'Python'.
+Textual data enclosed in single ('text'), double ("text"), or triple quotes ('''text is ...''' or """text is ..."""). For example, "Hello", 'Python'.
 
 🌀***Example***
 
