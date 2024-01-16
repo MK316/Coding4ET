@@ -44,7 +44,7 @@ print('This is the output') # Comment can also be written this way.
 
 ## Input vs Output
 
-
+![](https://github.com/MK316/Coding4ET/raw/main/images/inputoutput.png)
 
 [🔝](#Lesson-3-Coding-Basics)
 
