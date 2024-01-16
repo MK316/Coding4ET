@@ -2,12 +2,12 @@
 
 ### Key concepts
 
-* Comments vs. codes, Run code cell
-* Input vs. output
-* Variables
-* Operators
-* Functions
-* libraries, packages, & modules
+* [Comments vs. codes, Run code cell](#Comments-vs-codes)
+* [Input vs. output](#Input-vs-output)
+* [Variables](#Variables)
+* [Operators](#Operators)
+* [Functions](#Functions)
+* [Modules, libraries & packages](#module-library-package)
 
 [🔝](#Lesson-3-Coding-Basics)
 ### Sample
@@ -17,7 +17,7 @@
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## Comments vs. codes
+## Comments vs codes
 
 ```
 # This is a comment line
@@ -29,7 +29,7 @@ print("Hello, Python!") # this is a code line
 [🔝](#Lesson-3-Coding-Basics)
 
 
-## Input vs. Output
+## Input vs Output
 
 
 
@@ -51,7 +51,7 @@ print("Hello, Python!") # this is a code line
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## Modules-libraries-packages
+## Modules libraries packages
 
 **Modules:** Think of a module as a single file containing Python code. It might contain functions, variables, and classes which you can use once you import this module into your own code. It's like a toolbox that has a specific set of tools you can use.
 
