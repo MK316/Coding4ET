@@ -308,7 +308,43 @@ The return statement is used to exit a function and return a value. If there is 
 + Avoid Side Effects: A function should not affect the outside world (other parts of your program) unless necessary.
 + Documentation: Use docstrings to describe what the function does.
 
-Functions in Python are a powerful way to write organized, reusable, and efficient code. As a beginner, mastering functions will greatly enhance your programming skills and help you write more complex programs.
+### Example: A Function to Add Two Numbers
+In this example, we'll create a function named add_numbers that takes two parameters, adds them together, and then returns the result.
+
+```
+def add_numbers(number1, number2):
+    sum = number1 + number2
+    return sum
+
+# Using the function
+result = add_numbers(10, 15)
+print("The sum is:", result)
+```
+**Explanation:**
+
+Defining the Function:
+
+1. def add_numbers(number1, number2): starts the definition of the function named add_numbers with two parameters: number1 and number2.
+
+2. Performing an Operation:
+
++ Inside the function, we calculate the sum of number1 and number2 and store it in a local variable sum.
+
+3. Return Statement:
+
++ return sum then sends this value back to the caller. This is the crucial part where the function outputs its result.
+
+4. Calling the Function:
+
++ We call the function with result = add_numbers(10, 15). Here, 10 and 15 are arguments passed to number1 and number2, respectively.
++ The function executes and returns the sum of 10 and 15, which is 25. This returned value is then stored in the variable result.
+
+5. Printing the Result:
+
+Finally, we print the value of result, which is 25.
+
+
+**Functions in Python** are a powerful way to write organized, reusable, and efficient code. As a beginner, mastering functions will greatly enhance your programming skills and help you write more complex programs.
 
 
 [🔝](#Lesson-3-Coding-Basics)
