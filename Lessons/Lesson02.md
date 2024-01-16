@@ -1,22 +1,19 @@
-## Lesson 2 Getting Ready
+# Lesson 2 Getting Ready
 
 **Online platforms**
 
 We will use an online platform to code in the Python language (**Colab**) and to save and share the code (**Github**).
 
-1. [Github](https://github.com)
-
-: GitHub is an online platform where you can **store, share, and manage** your coding projects. It's like a library for code. You can think of it as a collaborative space where multiple people can work on the same project from different places. It keeps track of all the changes made to the code, so you can always go back to an earlier version if needed. This is helpful for team projects or when you want feedback on your work. Plus, you can explore and use code shared by others, which can be a great learning resource. GitHub is widely used by programmers, but it is also useful for anyone working on projects that involve coding, including those in the humanities.
-
-
-2. [Colab](https://colab.google/)
-
-: Colab, short for Google Colab, is an online tool that lets you **write and run Python code through your browser**. It is like a digital notebook that you can use for coding. The great thing about Colab is that it provides free access to powerful computing resources, which means you can work on more complex projects without needing a high-end computer. It is particularly handy for data analysis, machine learning projects, and any kind of Python programming.
-
-For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
++ 2.1 Github
++ 2.2 Colab
++ 2.3 Markdown
 
 
 ## 2.1 Github
+
+### [Github link](https://github.com)
+
+: GitHub is an online platform where you can **store, share, and manage** your coding projects. It's like a library for code. You can think of it as a collaborative space where multiple people can work on the same project from different places. It keeps track of all the changes made to the code, so you can always go back to an earlier version if needed. This is helpful for team projects or when you want feedback on your work. Plus, you can explore and use code shared by others, which can be a great learning resource. GitHub is widely used by programmers, but it is also useful for anyone working on projects that involve coding, including those in the humanities.
 
 🐣Open your account on Github
 
@@ -43,13 +40,18 @@ Notes:
 
 ## 2.2 Colab
 
-🐣 Online coding platform (Google Colab)
+### [Colab link](https://colab.google/)
+
+: Colab, short for Google Colab, is an online tool that lets you **write and run Python code through your browser**. It is like a digital notebook that you can use for coding. The great thing about Colab is that it provides free access to powerful computing resources, which means you can work on more complex projects without needing a high-end computer. It is particularly handy for data analysis, machine learning projects, and any kind of Python programming.
+
+For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
+
+### 🐣 Online coding platform (Google Colab)
 
 * Visit [https://colab.google/](https://colab.google/)
 * In Google Colab, there are primarily two types of cells: Code cells and Text (Markdown) cells.
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image03.png)
-
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image04.png)
 
@@ -69,9 +71,10 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
 
-[🔝](#Coding4ET)
 
 ## 2.3 Markdown
+
+Markdown is a lightweight markup language designed for easy readability and formatting. It uses simple syntax like # for headers, * for emphasis, and [link](URL) for hyperlinks, allowing users to create structured documents with plain text.
 
 🐣 Practice on your README.md file
 
