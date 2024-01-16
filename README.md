@@ -24,6 +24,7 @@ Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 + 3.4 [Operators]()
 + 3.5 [Functions]()
 + 3.6 [Module, Library, Package](#Modules-libraries-packages)
+  
 Lesson 4. [Data Types](#Lesson-4-Data-Types)
 
 Lesson 5. [Multimodality](#multimodality)
