@@ -18,7 +18,12 @@ Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
 + 2.4 [DIY](#Assignment01)
 
 Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
-
++ 3.1 [Comments vs. Codes]()
++ 3.2 [Input vs. output]()
++ 3.3 [Variables]()
++ 3.4 [Operators]()
++ 3.5 [Functions]()
++ 3.6 [Module, Library, Package](#Modules-libraries-packages)
 Lesson 4. [Data Types](#Lesson-4-Data-Types)
 
 Lesson 5. [Multimodality](#multimodality)
@@ -227,18 +232,179 @@ By completing this assignment, you will gain hands-on experience in setting up a
 Submit the URL of your GitHub repository containing "assign01.ipynb".
 
 
+*End of Lesson 2*
 [🔝](#Coding4ET)
-
 
 ## Lesson 3 Coding Basics
 
+### Key concepts
+
+* Comments vs. codes, Run code cell
+* Input vs. output
+* Variables
+* Operators
+* Functions
+* libraries, packages, & modules
+
+[🔝](#Coding4ET)
+### Sample
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image07.png)
+
+
+[🔝](#Coding4ET)
+
+## Comments vs. codes
+
+```
+# This is a comment line
+
+print("Hello, Python!") # this is a code line
+```
+
+
+[🔝](#Coding4ET)
+
+
+## Input vs. Output
+
+
+
+[🔝](#Coding4ET)
+
+## Operators
+
+
+
+[🔝](#Coding4ET)
+
+## Variables
+
+
+[🔝](#Coding4ET)
+
+## Functions
+
+
+[🔝](#Coding4ET)
+
+## Modules-libraries-packages
+
+**Modules:** Think of a module as a single file containing Python code. It might contain functions, variables, and classes which you can use once you import this module into your own code. It's like a toolbox that has a specific set of tools you can use.
+
+**Packages:** A package is a collection of Python modules under a common namespace. This usually means they are in the same folder and are related to each other in some way. You can think of a package as a bigger toolbox that holds several smaller toolboxes (modules). 
+
+**Libraries:** A library is a more general term that refers to a collection of packages and modules. It's like a big bookshelf where you store all kinds of toolboxes and individual tools. You can import these libraries into your programs and use the functions and classes that they offer. Sometimes people use 'library' and 'package' interchangeably.
+
+In summary, a module is a single file, a package is a collection of these files, and a library is a collection of packages and modules. They all help you to leverage existing code for your own projects, making programming in Python much more efficient and powerful.
+
+## 🐥 Import or install packages
+To demonstrate how to import a package and pick a random number from 1 to 10 in Python, you can use the random module. This module is a part of the standard Python library, so you don't need to install anything extra. Here's a simple example:
+
+```
+# Generate a random number between 1 and 10
+
+random_number = random.randint(1, 10)
+
+print("The random number is:", random_number)
+```
+
+## Examine the differences
+
+Variable at the end vs. print(variable)
+
+```
+# Code 1
+
+random_number = random.randint(1, 10)
+
+random_number
+```
+
+```
+# Code 2
+
+random_number = random.randint(1, 10)
+
+random_number
+print(random_number)
+```
+
+```
+# Code 3
+
+random_number = random.randint(1, 10)
+
+print(random_number)
+random_number
+```
+
+```
+# Code 4
+
+random_number = random.randint(1, 10)
+
+print("random_number:", random_number)
+```
+
+```
+# Code 5
+
+random_number = random.randint(1, 10)
+
+print("The random number is: ", random_number)
+```
+
+*End of Lesson 3*
 [🔝](#Coding4ET)
 
 ## Data Types
+Lesson 4 Data tyoes
+
+Python has several built-in data types that are commonly used. Here's a brief overview of each:
+
+**Note:** We will be focusing on **Numbers, Strings, List, and Dictionary** data types for our purpos.
+
+
+1. **Numbers:**
+
+    * Integers (**int**): Whole numbers like 3, 100, -1.
+    * Floating-point numbers (**float**): Numbers with a decimal point like 2.3, -0.1, 3.14.
+    * Complex numbers (complex): Numbers with a real and imaginary part, e.g., 3 + 4j.
+
+2. **Strings (str):** Textual data enclosed in single ('...'), double ("..."), or triple quotes ('''...''' or """..."""). For example, "Hello", 'Python'.
+
+3. Boolean (bool): Represents truth values. The two boolean values are True and False.
+
+4. **List (list):** An ordered, mutable (changeable) collection of items. Lists are defined with square brackets, e.g., [1, 2, 3] or ['apple', 'banana', 'cherry'].
+
+5. Tuple (tuple): An ordered, immutable collection of items. Tuples are defined with parentheses, e.g., (1, 2, 3) or ('a', 'b', 'c').
+
+6. Set (set): An unordered collection of unique items. Sets are defined with curly braces, e.g., {1, 2, 3} or {'apple', 'banana', 'cherry'}. Note that sets do not allow duplicate elements.
+
+7. **Dictionary (dict):** A collection of key-value pairs. Dictionaries are defined with curly braces containing key-value pairs separated by colons, e.g., {'name': 'Alice', 'age': 25}.
+
+8. NoneType (None): A special type representing the absence of a value or a null value.
+
+Each data type serves a specific purpose and can be used in different scenarios in Python programming. For instance, lists and tuples are great for storing ordered collections of items, dictionaries are ideal for storing related data as key-value pairs, and sets are useful for storing unique items and performing set operations.
+
 
 [🔝](#Coding4ET)
 
 ## Multimodality
+Lesson 5. Multimodality
+**Text, speech, image, and video**
+
+### 1) Text-to-Speech (TTS)
+
+[🔝](#Coding4ET)
+### 2) Speech-to-Text (STT)
+
+[🔝](#Coding4ET)
+### 3) Text-to-Image
+
+[🔝](#Coding4ET)
+### 4) Image-to-Text
 
 [🔝](#Coding4ET)
 
