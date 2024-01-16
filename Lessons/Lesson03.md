@@ -136,15 +136,102 @@ Python operators can be classified into several categories:
 
 In Python, a variable is a container for storing data values. Unlike other programming languages, Python has no command for declaring a variable; a variable is created the moment you first assign a value to it.
 
-### Characteristics of Python Variables:
+** Characteristics of Python Variables:** 
 
 + Dynamically Typed: Python automatically identifies the data type of a variable based on the type of its value, which means you don’t have to explicitly declare the data type of a variable.
 + Mutable: The value of a variable can be changed after it is created.
-+ Naming Rules:
++ **Naming Rules:**
     + Must start with a letter or the underscore character (_).
     + Cannot start with a number.
     + Can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).
     + Case-sensitive (age, Age, and AGE are three different variables).
+
+### 2. Creating Variables
+
+To create a variable in Python, you just need to assign a value to a name:
+
+```
+x = 5
+y = "Hello, World!"
+
+print(x)
+print(y)
+```
+Here, x is a variable of type int, and y is a variable of type str (string).
+
+### 3. Variable Types
+
+Python has various data types including:
+
++ Integers (int): Whole numbers like 3, 300, -219.
++ Floating Point (float): Numbers with a decimal point like 2.3, 3.14, -0.001.
++ Strings (str): Ordered sequence of characters like "Hello", "World123", "Python!".
++ Boolean (bool): Represents True or False.
+
+### 4. Best Practices
+
++ [1] Variable Names: Use meaningful variable names to make your code more readable.
+
+For example,
+
+**Poor Practice:**
+
+```
+a = 50
+b = 120
+c = a * b
+```
+In this example, a, b, and c are not descriptive. It's hard to understand what these variables represent without context.
+
+**Good Practice:**
+
+```
+room_length = 50
+room_width = 120
+room_area = room_length * room_width
+```
+Here, the variable names clearly indicate what they represent, making the code more readable and understandable.
+
++ [2] Consistency: Stick to a naming convention, like snake_case (e.g., my_variable).
++ [3] Avoid Globals: Try not to use global variables unless necessary. They can make the debugging process difficult.
+
+Global and local variables are two fundamental concepts in Python programming (and programming in general), relating to the scope of variables. Understanding their differences is crucial for managing how data is stored and modified in your programs.
+
+**Global variables**
++ Definition: A global variable is declared outside of all functions. This means it is accessible from any part of the program, including inside functions.
++ Scope: Global scope – accessible anywhere in the program.
+
+**Local Variables**
+Definition: A local variable is declared inside a function. It is only accessible within that function and not outside of it.
+Scope: Local scope – accessible only within the function where it is declared.
+
++ [4] Comments: Use comments to describe complex operations or reasons behind choosing certain variable names.
+
+### 5. Example: Basic Variables in Colab
+
+Here’s a simple example to demonstrate creating and using variables in a Colab notebook:
+
+```
+# Cell 1: Creating Variables
+name = "John Doe"
+age = 30
+height = 5.9
+is_student = False
+
+# Cell 2: Working with Variables
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Height: {height} feet")
+print(f"Is a student: {is_student}")
+
+# Cell 3: Changing Variable Value
+age = 31
+print(f"Updated Age: {age}")
+```
+
+When you run these cells, you will see the output displayed under each cell. This example demonstrates creating variables, printing their values, and updating a variable.
+
+
 
 [🔝](#Lesson-3-Coding-Basics)
 
