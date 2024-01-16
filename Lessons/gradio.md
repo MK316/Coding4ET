@@ -53,3 +53,35 @@ Running on public URL: https://6399aef62e38ac8b6c.gradio.live **Note:** This lin
 > This share link expires in 72 hours. For free permanent hosting and GPU upgrades, run `gradio deploy` from Terminal to deploy to Spaces (https://huggingface.co/spaces) **Note:** This link doesn't work here.
 >
 ![](https://github.com/MK316/Coding4ET/blob/main/images/gradio1.png)
+
+[🔝](## Gradio)
+
+# Gradio manual
+
+### 1. Installation
+
+
+### 2. Gradio code
+
+**Sample1**
+
+```
+import gradio as gr
+
+def greet(name, repeat):
+    return "Hello " * repeat + name + "!"
+
+demo = gr.Interface(
+    fn=greet,
+    inputs=["text", "slider"],
+    outputs=["text"],
+)
+
+demo.launch()
+```
+
+
+
+
+
+[🔝](## Gradio)
