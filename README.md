@@ -9,7 +9,7 @@ This is a course material for classes in Spring 2024.
 
 [Overview](#Overview)
 
-Lesson 1. [Introduction](#Lesson-1)
+Lesson 1. [Introduction](#Lesson-1-Introduction)
 
 Lesson 2. [Getting Ready]
 
