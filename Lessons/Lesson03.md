@@ -10,7 +10,7 @@
 * [Modules, libraries & packages](#module-library-package)
 
 [🔝](#Lesson-3-Coding-Basics)
-### Sample: write, run, and get the output (result)
+### ✨ Sample: write, run, and get the output (result)
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image07.png)
 
