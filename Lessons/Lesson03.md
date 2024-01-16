@@ -176,5 +176,6 @@ random_number = random.randint(1, 10)
 print("The random number is: ", random_number)
 ```
 
+[^1]: Widgets: 
 
 [🔝](#Lesson-3-Coding-Basics)
