@@ -29,11 +29,11 @@ Lesson 4. [Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Less
 
 Lesson 5. [Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)
 
+Lesson 6. [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)
 
 
 
-
-
+---
 ## Acknowledgments
 
 1. This manual is written to be used as teaching material for improving digital literacy among future and current teachers of English, aiming to provide an easier approach to basic Python coding.
