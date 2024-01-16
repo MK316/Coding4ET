@@ -96,7 +96,7 @@ The combination of these input and output methods makes Colab a versatile tool f
 
 Operators are special symbols in Python that carry out arithmetic or logical computation. They are essential for manipulating values and creating expressions.
 
-+ Assign (=): Assigns the right side's value to the left side operand. Example: x = y
++ Assign (=): Assigns the right side's value to the left side operand. Example: x = y, x = 3, y = "Apple", z = "an", k = z + y, etc.
 
 ### 1. Types of Operators
 
