@@ -1,8 +1,6 @@
 # Lesson 4 Data types
 
-Python has several built-in data types that are commonly used. Here's a brief overview of each:
-
-**Note:** We will be focusing on the data types listed below for our purpose.
+Python has several built-in data types that are commonly used. Here's a brief overview of each. However, note that we will be focusing on the data types listed below for our purpose.
 
 * Numbers
 * Strings
@@ -19,20 +17,21 @@ Python has several built-in data types that are commonly used. Here's a brief ov
 ### 2. Strings (str):
 Textual data enclosed in single ('...'), double ("..."), or triple quotes ('''...''' or """..."""). For example, "Hello", 'Python'.
 
-### 3. Boolean (bool): 
-Represents truth values. The two boolean values are True and False.
-
-### 4. List (list):
+### 3. List (list):
 An ordered, mutable (changeable) collection of items. Lists are defined with square brackets, e.g., [1, 2, 3] or ['apple', 'banana', 'cherry'].
+
+### 4. Dictionary (dict):
+A collection of key-value pairs. Dictionaries are defined with curly braces containing key-value pairs separated by colons, e.g., {'name': 'Alice', 'age': 25}.
 
 ### 5. Tuple (tuple): 
 An ordered, immutable collection of items. Tuples are defined with parentheses, e.g., (1, 2, 3) or ('a', 'b', 'c').
 
-### 6. Set (set):
-An unordered collection of unique items. Sets are defined with curly braces, e.g., {1, 2, 3} or {'apple', 'banana', 'cherry'}. Note that sets do not allow duplicate elements.
+### 6. Boolean (bool): 
+Represents truth values. The two boolean values are True and False.
 
-### 7. Dictionary (dict):
-A collection of key-value pairs. Dictionaries are defined with curly braces containing key-value pairs separated by colons, e.g., {'name': 'Alice', 'age': 25}.
+
+### 7. Set (set):
+An unordered collection of unique items. Sets are defined with curly braces, e.g., {1, 2, 3} or {'apple', 'banana', 'cherry'}. Note that sets do not allow duplicate elements.
 
 ### 8. NoneType (None): 
 A special type representing the absence of a value or a null value.
