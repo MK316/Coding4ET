@@ -228,8 +228,15 @@ print(f"Is a student: {is_student}")
 age = 31
 print(f"Updated Age: {age}")
 ```
+When you run these cells, you will see the output displayed under the cell, as follows:
 
-When you run these cells, you will see the output displayed under each cell. This example demonstrates creating variables, printing their values, and updating a variable.
+> Name: John Doe
+> Age: 30
+> Height: 5.9 feet
+> Is a student: False
+> Updated Age: 31
+
+This example demonstrates creating variables, printing their values, and updating a variable.
 
 
 
