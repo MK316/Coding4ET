@@ -86,7 +86,7 @@ We will use an online platform to code in the Python language (**Colab**) and to
 For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
 
 
-### Github
+## Github
 2.1 Github
 
 🐣Open your account on Github
@@ -112,7 +112,7 @@ Notes:
 
 [🔝](#Coding4ET)
 
-### Colab
+## Colab
 2.2 Colab
 
 🐣 Online coding platform (Google Colab)
