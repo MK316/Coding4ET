@@ -46,7 +46,7 @@ Lesson 6. [Designing language apps](https://github.com/MK316/Coding4ET/blob/main
 
 ## Overview
 
-🐾 **The focus of this manual and goals**
+🌱 **The focus of this manual and goals**
 
 In today's era of digital technology deeply intertwined with education, the importance of digital literacy in English teaching is increasingly recognized. 
 
