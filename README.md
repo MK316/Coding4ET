@@ -11,11 +11,11 @@ This is a course material for classes in Spring 2024.
 
 Lesson 1. [Introduction](#Lesson-1-Introduction)
 
-Lesson 2. [Getting Ready]
+Lesson 2. [Getting Ready](#Lesson-2-Getting Ready)
 
-Lesson 3. [Coding Basics]
+Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
 
-Lesson 4. [Data Types]
+Lesson 4. [Data Types](#Lesson-4-Data-Types)
 
 Lesson 5. [Multimodality](#multimodality)
 
@@ -64,11 +64,26 @@ Python is a **high-level programming language** known for its simplicity and rea
 
 [🔝](#Coding4ET)
 
-## Getting Ready
+## Lesson 2 Getting Ready
+
+**Online platforms**
+
+We will use an online platform to code in the Python language (**Colab**) and to save and share the code (**Github**).
+
+1. [Github](https://github.com)
+
+: GitHub is an online platform where you can **store, share, and manage** your coding projects. It's like a library for code. You can think of it as a collaborative space where multiple people can work on the same project from different places. It keeps track of all the changes made to the code, so you can always go back to an earlier version if needed. This is helpful for team projects or when you want feedback on your work. Plus, you can explore and use code shared by others, which can be a great learning resource. GitHub is widely used by programmers, but it is also useful for anyone working on projects that involve coding, including those in the humanities.
+
+
+2. [Colab](https://colab.google/)
+
+: Colab, short for Google Colab, is an online tool that lets you **write and run Python code through your browser**. It is like a digital notebook that you can use for coding. The great thing about Colab is that it provides free access to powerful computing resources, which means you can work on more complex projects without needing a high-end computer. It is particularly handy for data analysis, machine learning projects, and any kind of Python programming.
+
+For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
 
 [🔝](#Coding4ET)
 
-## Coding Basics
+## Lesson 3 Coding Basics
 
 [🔝](#Coding4ET)
 
