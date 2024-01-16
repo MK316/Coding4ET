@@ -36,7 +36,7 @@ Notes:
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image02.png)
 
-[🔝](#Coding4ET)
+[🔝](#Lesson-2-Getting Ready)
 
 ## 2.2 Colab
 
@@ -71,6 +71,7 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
 
+[🔝](#Lesson-2-Getting Ready)
 
 ## 2.3 Markdown
 
@@ -109,6 +110,7 @@ For a slightly smaller heading, use two hash symbols (##) followed by a space.
 Use three hash symbols (###) for an even smaller heading.
 
 
+[🔝](#Lesson-2-Getting Ready)
 
 ## Assignment01
 2.4 DIY Setting Up GitHub and Google Colab
@@ -154,3 +156,5 @@ By completing this assignment, you will gain hands-on experience in setting up a
 
 ### Submission:
 Submit the URL of your GitHub repository containing "assign01.ipynb".
+
+[🔝](#Lesson-2-Getting Ready)
