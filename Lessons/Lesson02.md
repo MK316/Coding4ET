@@ -1,3 +1,5 @@
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
+
 # Lesson 2 Getting Ready
 
 **Online platforms**
@@ -169,3 +171,5 @@ The great thing about Markdown is that it's meant to be as easy to read in its p
 
 
 [🔝](#Lesson-2-Getting-Ready)
+
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
