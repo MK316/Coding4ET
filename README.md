@@ -142,7 +142,7 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
 
 
-### Markdown
+## Markdown
 2.3 Markdown
 
 🐣 Practice on your README.md file
