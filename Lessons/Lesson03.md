@@ -29,6 +29,8 @@ For example,
 print("Hello, Python!") # this is a code line
 ```
 
+Here's another example:
+
 ```
 # This is a comment line <= This is a comment line
 # Comments can be more than one line
