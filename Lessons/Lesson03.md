@@ -322,24 +322,24 @@ print("The sum is:", result)
 ```
 **➡️ Explanation:**
 
-Defining the Function:
+1. Defining the Function:
 
-1. def add_numbers(number1, number2): starts the definition of the function named add_numbers with two parameters: number1 and number2.
+2. def add_numbers(number1, number2): starts the definition of the function named add_numbers with two parameters: number1 and number2.
 
-2. Performing an Operation:
+3. Performing an Operation:
 
 + Inside the function, we calculate the sum of number1 and number2 and store it in a local variable sum.
 
-3. Return Statement:
+4. Return Statement:
 
 + return sum then sends this value back to the caller. This is the crucial part where the function outputs its result.
 
-4. Calling the Function:
+5. Calling the Function:
 
 + We call the function with result = add_numbers(10, 15). Here, 10 and 15 are arguments passed to number1 and number2, respectively.
 + The function executes and returns the sum of 10 and 15, which is 25. This returned value is then stored in the variable result.
 
-5. Printing the Result:
+6. Printing the Result:
 
 Finally, we print the value of result, which is 25.
 
