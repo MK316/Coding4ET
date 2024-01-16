@@ -9,9 +9,9 @@ This is a course material for classes in Spring 2024.
 
 [Overview](#Overview)
 
-Lesson 1. [Introduction](#Lesson-1-Introduction)
+Lesson 1. [Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md))
 
-Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
+Lesson 2. [Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)
 + 2.1 [Github](#Github)
 + 2.2 [Colab](#Colab)
 + 2.3 [Markdown](#Markdown)
