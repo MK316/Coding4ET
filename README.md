@@ -85,6 +85,7 @@ We will use an online platform to code in the Python language (**Colab**) and to
 
 For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
 
+[🔝](#Coding4ET)
 
 ## Github
 2.1 Github
@@ -141,6 +142,7 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
 
+[🔝](#Coding4ET)
 
 ## Markdown
 2.3 Markdown
@@ -177,13 +179,8 @@ For a slightly smaller heading, use two hash symbols (##) followed by a space.
 
 Use three hash symbols (###) for an even smaller heading.
 
+[🔝](#Coding4ET)
 
-
-[^1]: **Markdown (or Markdown language)** is a simple way of writing formatted text using plain text. It's popular because it's easy to learn and use. Imagine you're writing a normal text document, but you can also add some special symbols to make certain words bold, create lists, or even add links and pictures.
-
-For example, if you want to make a word bold, you wrap it in double asterisks, like this: **bold**. If you want to create a list, you just start lines with dashes or numbers. And to add a link, you put the text you want to show in square brackets and the web address in parentheses right after it.
-
-The great thing about Markdown is that it's meant to be as easy to read in its plain text form as it is in its formatted form. It's widely used in many websites and tools, like GitHub and Reddit, for writing comments, instructions, and more. For beginners, it's a friendly way to start adding some style to your text without needing to know any complex coding or web design techniques.
 
 ## Lesson 3 Coding Basics
 
@@ -197,5 +194,10 @@ The great thing about Markdown is that it's meant to be as easy to read in its p
 
 [🔝](#Coding4ET)
 
+[^1]: **Markdown (or Markdown language)** is a simple way of writing formatted text using plain text. It's popular because it's easy to learn and use. Imagine you're writing a normal text document, but you can also add some special symbols to make certain words bold, create lists, or even add links and pictures.
 
+For example, if you want to make a word bold, you wrap it in double asterisks, like this: **bold**. If you want to create a list, you just start lines with dashes or numbers. And to add a link, you put the text you want to show in square brackets and the web address in parentheses right after it.
 
+The great thing about Markdown is that it's meant to be as easy to read in its plain text form as it is in its formatted form. It's widely used in many websites and tools, like GitHub and Reddit, for writing comments, instructions, and more. For beginners, it's a friendly way to start adding some style to your text without needing to know any complex coding or web design techniques.
+
+[🔝](#Coding4ET)
