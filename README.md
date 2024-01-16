@@ -145,7 +145,7 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 ### Markdown
 2.3 Markdown
 
-🐣 To do (practice) on your README.md file
+🐣 Practice on your README.md file
 
 This is the file you've made when you created a repository (Remember checking 'Add a README file')
 
