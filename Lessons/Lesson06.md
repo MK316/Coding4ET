@@ -29,6 +29,11 @@ Test your exercises within the Colab notebook to ensure they work as intended.
 
 Share the Colab notebooks with learners or in-class by generating shareable links. Learners can open and interact with the notebooks using a web browser.
 
++ Use a code link
++ Use a QR code
++ Use a live link (💦 Gradio)
+  
+
 ## 7. Collaboration:
 
 Encourage learners to collaborate by sharing their solutions or answers within the notebook's comments or text cells.
