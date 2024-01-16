@@ -5,9 +5,9 @@ This is a course material for classes in Spring 2024.
 
 ## Table of Contents
 
-[Acknowledgment](#Acknowledgments)
+🔸[Acknowledgment](#Acknowledgments)
 
-[Overview](#Overview)
+🔸[Overview](#Overview)
 
 Lesson 1. [Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md))
 
