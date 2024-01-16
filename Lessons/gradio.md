@@ -45,3 +45,11 @@ iface = gr.Interface(fn=greeting, inputs="text", outputs="text")
 iface.launch()
 
 ```
+> Setting queue=True in a Colab notebook requires sharing enabled. Setting `share=True` (you can turn this off by setting `share=False` in `launch()` explicitly).
+
+> Colab notebook detected. To show errors in colab notebook, set debug=True in launch()
+Running on public URL: https://6399aef62e38ac8b6c.gradio.live
+
+> This share link expires in 72 hours. For free permanent hosting and GPU upgrades, run `gradio deploy` from Terminal to deploy to Spaces (https://huggingface.co/spaces)
+>
+![](https://github.com/MK316/Coding4ET/blob/main/images/gradio1.png)
