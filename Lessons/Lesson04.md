@@ -2,7 +2,7 @@
 
 Python has several built-in data types that are commonly used. Here's a brief overview of each. Note that we will be focusing on some of the data types listed below for our purpose.
 
-* **Number**
+* **Number:** integers, floating numbers
 * **String**
 * **List**
 * **Dictionary**
