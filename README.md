@@ -163,6 +163,8 @@ If you follow 1 & 2, then you'll see 3 on the right.
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
+Examples (below):
+
 ## Heading Level 1 (Biggest Size)
 
 To create the biggest heading, you use one hash symbol (#) followed by a space, and then your heading text.
