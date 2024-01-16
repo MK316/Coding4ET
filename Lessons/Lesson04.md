@@ -48,6 +48,16 @@ name = input()
 print("Hello, %s!"%name)
 ```
 
+```
+mytext = """
+Long long time ago, there lived a lion called Lezzi.
+One day, ....
+"""
+print(mytext)
+```
+> Long long time ago, there lived a lion called Lezzi.
+One day, ....
+
 ### 3. List (list):
 An ordered, mutable (changeable) collection of items. Lists are defined with square brackets, e.g., [1, 2, 3] or ['apple', 'banana', 'cherry'].
 
