@@ -9,9 +9,13 @@ This is a course material for classes in Spring 2024.
 Overview
 
 Lesson 1. [Introduction]
+
 Lesson 2. [Getting Ready]
+
 Lesson 3. [Coding Basics]
+
 Lesson 4. [Data Types]
+
 Lesson 5. [Multimodality](#multimodality)
 
 
