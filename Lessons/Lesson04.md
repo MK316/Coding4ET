@@ -34,7 +34,7 @@ average_score = 82.5
 print("Average Score:", average_score)
 ```
 
-
+---
 ### 2. String (str):
 Textual data enclosed in single ('text'), double ("text"), or triple quotes ('''text is ...''' or """text is ..."""). For example, "Hello", 'Python'.
 
@@ -58,6 +58,7 @@ print(mytext)
 > Long long time ago, there lived a lion called Lezzi.
 One day, ....
 
+---
 ### 3. List (list):
 An ordered, mutable (changeable) collection of items. Lists are defined with square brackets, e.g., [1, 2, 3] or ['apple', 'banana', 'cherry'].
 
@@ -69,7 +70,7 @@ favorite_books = ["To Kill a Mockingbird", "1984", "The Great Gatsby"]
 print("Favorite Books:", favorite_books)
 ```
 
-
+---
 ### 4. Dictionary (dict):
 A collection of key-value pairs. Dictionaries are defined with curly braces containing key-value pairs separated by colons, e.g., {'name': 'Alice', 'age': 25}.
 
@@ -85,6 +86,7 @@ print("Student Grades:", student_grades)
 student_grades['Alice']
 ```
 
+---
 ### 5. Tuple (tuple): 
 An ordered, immutable collection of items. Tuples are defined with parentheses, e.g., (1, 2, 3) or ('a', 'b', 'c').
 
@@ -95,7 +97,7 @@ An ordered, immutable collection of items. Tuples are defined with parentheses, 
 months_of_the_year = ("January", "February", "March", "April")
 print("Months of the Year:", months_of_the_year)
 ```
-
+---
 ### 6. Boolean (bool): 
 Represents truth values. The two boolean values are True and False.
 
@@ -107,6 +109,6 @@ An unordered collection of unique items. Sets are defined with curly braces, e.g
 A special type representing the absence of a value or a null value.
 
 Each data type serves a specific purpose and can be used in different scenarios in Python programming. For instance, lists and tuples are great for storing ordered collections of items, dictionaries are ideal for storing related data as key-value pairs, and sets are useful for storing unique items and performing set operations.
-
+---
 
 [🔝](#Lesson-4-Data-types)
