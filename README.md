@@ -13,7 +13,7 @@ Lesson 1. [Introduction](#Lesson-1-Introduction)
 
 Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
 + 2.1 [Github](#Github)
-+ 2.2 Colab
++ 2.2 [Colab](#Colab)
 + 2.3 Markdown
 + 2.4 DIY
 
@@ -85,9 +85,10 @@ We will use an online platform to code in the Python language (**Colab**) and to
 
 For humanities students, Colab can be a friendly platform to start experimenting with Python. You can write code, add notes, and even collaborate with others in real-time, much like working on a Google Doc. It is a useful tool for learning to code, working on group projects, or just experimenting with new ideas in a straightforward and accessible way.
 
-2.1 Github
+
 ### Github
 2.1 Github
+
 🐣Open your account on Github
 
 * Visit the website: [https://github.com](https://github.com)
@@ -109,8 +110,44 @@ Notes:
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image02.png)
 
-
 [🔝](#Coding4ET)
+
+### Colab
+2.2 Colab
+
+🐣 Online coding platform (Google Colab)
+
+* Visit [https://colab.google/](https://colab.google/)
+* In Google Colab, there are primarily two types of cells: Code cells and Text (Markdown) cells.
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image03.png)
+
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image04.png)
+
+**1. In the image above, there are a couple of key things to notice about using Colab:**
+
+**File Name (Untitled48.ipynb):** At the top, you see 'Untitled48.ipynb' which is the name of the notebook you're working on. Just like a physical notebook doesn't have a name until you write one on it, this is a digital notebook that hasn't been named yet. The '48' is just a number to tell it apart from other unnamed notebooks. The '.ipynb' part is like saying "this is a notebook for writing code."
+
+**Adding Cells:** Below the name, you see two buttons, '+ Code' and '+ Text'. These are for adding new sections or "cells" to your notebook. If you want to write some code, you click '+ Code', and a new box will appear where you can type your computer commands. If you want to write some explanations or notes, you click '+ Text', and you'll get a box where you can type regular text.
+
+This is how you build your notebook, by adding cells of code or text to do your work and explain what you're doing. It's like a mix-and-match of doing and explaining, all in one place.
+
+* **Code Cells:** These are the cells where you write and execute programming code. In Colab, which primarily supports Python, you can input Python code and run it directly in the browser. The code cells allow for interactive coding - you write code, run it, and see the output immediately below the cell. This is ideal for data analysis, machine learning, and any other Python-based programming tasks. You can also install libraries, load data, and visualize data in these cells.
+
+* **Text (Markdown[^1]) Cells:** These cells are used for adding text, formatted using Markdown, to your notebook. Markdown is a simple markup language that allows you to format text using plain text syntax. In these cells, you can add headings, lists, links, images, and even HTML elements to document your analysis, provide instructions, or add explanations and context to your code. This is very useful for creating a comprehensive, well-documented, and easy-to-understand notebook.
+
+Colab's combination of these two cell types allows for a mix of narrative, code, and output, making it a powerful tool for interactive programming and data analysis.
+
+**Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
+
+
+
+[^1]: **Markdown (or Markdown language)** is a simple way of writing formatted text using plain text. It's popular because it's easy to learn and use. Imagine you're writing a normal text document, but you can also add some special symbols to make certain words bold, create lists, or even add links and pictures.
+
+For example, if you want to make a word bold, you wrap it in double asterisks, like this: **bold**. If you want to create a list, you just start lines with dashes or numbers. And to add a link, you put the text you want to show in square brackets and the web address in parentheses right after it.
+
+The great thing about Markdown is that it's meant to be as easy to read in its plain text form as it is in its formatted form. It's widely used in many websites and tools, like GitHub and Reddit, for writing comments, instructions, and more. For beginners, it's a friendly way to start adding some style to your text without needing to know any complex coding or web design techniques.
 
 ## Lesson 3 Coding Basics
 
