@@ -4,6 +4,7 @@ Multimodality in the context of programming, especially for English language tea
 
 Below are simple Python code examples that demonstrate basic multimodal interactions. These examples assume a teaching environment where text (written words) and audio (spoken words) are key modes of interaction.
 
+---
 ### Example 1: Text Input and Text Output
 This example takes text input from the user and responds with text output. It's a simple program that asks the user for their favorite book and responds with a message.
 
@@ -14,6 +15,10 @@ favorite_book = input("Enter your favorite book: ")
 print("Your favorite book is:", favorite_book)
 ```
 
+
+[🔝](#Lesson-05-Multimodality)
+
+
 ### 2. Text Input and Audio Output
 In this example, Python takes a text input and responds with an audio output. This requires the gTTS (Google Text-to-Speech) library, which converts text into spoken words. This example might require installing the gTTS and playsound modules via pip.
 
@@ -22,6 +27,7 @@ In this example, Python takes a text input and responds with an audio output. Th
 !pip install gTTS
 ```
 
+Wait for the above code to complete, and then run the code below.
 
 ```
 # Install the necessary libraries if not already installed
@@ -42,3 +48,16 @@ text_to_speak = input("Type what you want to hear: ")
 text_to_audio_and_play(text_to_speak)
 
 ```
+
+
+[🔝](#Lesson-05-Multimodality)
+
+### 3. Speech to text
+
+```
+# Install the necessary libraries if not already installed
+!pip install SpeechRecognition
+```
+
+
+[🔝](#Lesson-05-Multimodality)
