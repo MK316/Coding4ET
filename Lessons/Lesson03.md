@@ -217,16 +217,14 @@ name = "John Doe"
 age = 30
 height = 5.9
 is_student = False
+```
 
+```
 # Cell 2: Working with Variables
 print(f"Name: {name}")
 print(f"Age: {age}")
 print(f"Height: {height} feet")
 print(f"Is a student: {is_student}")
-
-# Cell 3: Changing Variable Value
-age = 31
-print(f"Updated Age: {age}")
 ```
 When you run these cells, you will see the output displayed under the cell, as follows:
 
@@ -234,6 +232,12 @@ When you run these cells, you will see the output displayed under the cell, as f
 > Age: 30  
 > Height: 5.9 feet  
 > Is a student: False  
+
+```
+# Cell 3: Changing Variable Value
+age = 31
+print(f"Updated Age: {age}")
+```
 > Updated Age: 31  
 
 This example demonstrates creating variables, printing their values, and updating a variable.
