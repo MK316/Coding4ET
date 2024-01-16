@@ -14,7 +14,7 @@ Lesson 1. [Introduction](#Lesson-1-Introduction)
 Lesson 2. [Getting Ready](#Lesson-2-Getting-Ready)
 + 2.1 [Github](#Github)
 + 2.2 [Colab](#Colab)
-+ 2.3 Markdown
++ 2.3 [Markdown](#Markdown)
 + 2.4 DIY
 
 Lesson 3. [Coding Basics](#Lesson-3-Coding-Basics)
@@ -140,6 +140,40 @@ This is how you build your notebook, by adding cells of code or text to do your 
 Colab's combination of these two cell types allows for a mix of narrative, code, and output, making it a powerful tool for interactive programming and data analysis.
 
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
+
+
+### Markdown
+2.3 Markdown
+
+🐣 To do (practice) on your README.md file
+
+This is the file you've made when you created a repository (Remember checking 'Add a README file')
+
+* Go to your Github account and Sign in (with your Google account)
+* Go to the repository 'Spring2024' > README.md
+* You can see an edit icon on the page (see below)
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image05.png)
+
+**Note:** You will learn about the Markdown language bit by bit as necessary when relevant topics come up. For now, let's just briefly introduce what the Markdown language and README files (with the .md extension) are, and practice that.
+
+**📍Instruction: Try the following conventions in your README.md file.**
+
+If you follow 1 & 2, then you'll see 3 on the right.
+
+![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
+
+## Heading Level 1 (Biggest Size)
+
+To create the biggest heading, you use one hash symbol (#) followed by a space, and then your heading text.
+
+## Heading Level 2 (Second Biggest Size)
+
+For a slightly smaller heading, use two hash symbols (##) followed by a space.
+
+### Heading Level 3 (Medium Size)
+
+Use three hash symbols (###) for an even smaller heading.
 
 
 
