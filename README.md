@@ -9,7 +9,7 @@ This is a course material for classes in Spring 2024.
 
 [Overview](#Overview)
 
-Lesson 1. [Introduction]
+Lesson 1. [Introduction](#Lesson-1-Introduction)
 
 Lesson 2. [Getting Ready]
 
@@ -49,7 +49,7 @@ Therefore, this manual aims to introduce Python coding in a fundamental way, foc
 
 [🔝](#Coding4ET)
 
-## Introduction
+## Lesson 1 Introduction
 **1. What is Python?**
 
 Python is a **high-level programming language** known for its simplicity and readability, making it a popular choice for beginners as well as experienced developers. It was created by **Guido van Rossum** and first released in 1991. Python's design philosophy emphasizes **code readability with its notable use of significant whitespace.**
