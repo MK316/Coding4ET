@@ -51,7 +51,7 @@ print("Hello, Python!") # this is a code line
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## Module library package
+## Module-library-package
 
 **Modules:** Think of a module as a single file containing Python code. It might contain functions, variables, and classes which you can use once you import this module into your own code. It's like a toolbox that has a specific set of tools you can use.
 
