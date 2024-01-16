@@ -1,3 +1,5 @@
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
+
 # Lesson 4 Data types
 
 Python has several built-in data types that are commonly used. Here's a brief overview of each. Note that we will be focusing on some of the data types listed below for our purpose.
@@ -112,3 +114,5 @@ Each data type serves a specific purpose and can be used in different scenarios 
 
 
 [🔝](#Lesson-4-Data-types)
+
+🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
