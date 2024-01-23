@@ -8,7 +8,9 @@ Python is a **high-level programming language** known for its simplicity and rea
 
 * High-level programming language (cf. Low-level programming language) - A high-level programming language is user-friendly, using natural language elements, making it easier to learn and write code compared to more complex, low-level languages.
 * [Guido van Rossum](https://gvanrossum.github.io/)
-* Using whitespace? (Examples below)
+* Readability: Python is designed to be easy to understand and read, almost like reading English. This is achieved through a clean and straightforward syntax. The focus on readability makes Python an excellent language for beginners and also simplifies collaboration and maintenance in larger projects.
+
+* Significant Whitespace: In many programming languages, code blocks (like loops, if statements, functions) are defined by symbols such as braces {}. In Python, however, indentation (whitespace at the beginning of a line) is used to define these blocks. This approach forces Python programmers to write neatly formatted code, which enhances the overall readability. Using whitespace? (Examples below)
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/whitespace1.png)
 ![](https://github.com/MK316/Coding4ET/raw/main/images/whitespace2.png)
