@@ -3,7 +3,7 @@
 
 This is a course material for classes in Spring 2024.
 
-## Table of Contents
+## 📂 Table of Contents
 
 🔸[Acknowledgment](#Acknowledgments)
 
