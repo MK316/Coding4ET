@@ -1,4 +1,4 @@
-# Coding4ET
+# 📗 Coding4ET
 **Coding for English Teachers**
 
 This is a course material for classes in Spring 2024.
