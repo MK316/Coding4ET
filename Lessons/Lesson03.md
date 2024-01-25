@@ -4,12 +4,12 @@
 
 ### ⭐ Key concepts
 
-* [Comments vs. codes, Run code cell](#Comments-vs-codes)
-* [Input vs. output](#Input-vs-output)
-* [Variables](#Variables)
-* [Operators](#Operators)
-* [Functions](#Functions)
-* [Modules, libraries & packages](#module-library-package)
+* 3.1 [Comments vs. codes, Run code cell](#Comments-vs-codes)
+* 3.2 [Input vs. output](#Input-vs-output)
+* 3.3 [Variables](#Variables)
+* 3.4 [Operators](#Operators)
+* 3.5 [Functions](#Functions)
+* 3.6 [Modules, libraries & packages](#module-library-package)
 
 [🔝](#Lesson-3-Coding-Basics)
 ### ✨ Sample: write, run, and get the output (result)
