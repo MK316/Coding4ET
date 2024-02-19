@@ -5,7 +5,7 @@ Below are five practice exercises designed to reinforce the concepts covered in 
 
 + Question: You have a CSV file named "language_progress.csv" that tracks the progress of students learning a new language. It contains columns for "Name", "Language", "Month", and "Score". Write the code to read this CSV file into a DataFrame and display the first 10 rows.
 
-### Dataset sample [To download, click here](https://github.com/MK316/Coding4ET/edit/main/Lessons/Lesson07c_data.csv)
+### Dataset sample [To download, click here](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c_data.csv)
 
 | Student Name | Language | Month    | Score |
 |--------------|----------|----------|-------|
