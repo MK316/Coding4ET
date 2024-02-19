@@ -3,7 +3,7 @@ Below are five practice exercises designed to reinforce the concepts covered in 
 
 # Exercise 1: Reading and Displaying Data
 
-+ Question: You have a CSV file named "language_progress.csv" that tracks the progress of students learning a new language. It contains columns for "Student Name", "Language", "Month", and "Score". Write the code to read this CSV file into a DataFrame and display the first 10 rows.
++ Question: You have a CSV file named "language_progress.csv" that tracks the progress of students learning a new language. It contains columns for "Name", "Language", "Month", and "Score". Write the code to read this CSV file into a DataFrame and display the first 10 rows.
 
 # Exercise 2: Filtering Data
 
@@ -20,5 +20,32 @@ Below are five practice exercises designed to reinforce the concepts covered in 
 # Exercise 5: Data Visualization
 
 + Question: Visualize the count of students learning each language using a bar chart. Assume your DataFrame from "language_progress.csv" has a "Language" column.
+
+
+
+Dataset sample [To download, click here](https://github.com/MK316/Coding4ET/edit/main/Lessons/Lesson07c_sample.md)
+
+| Student Name | Language | Month    | Score |
+|--------------|----------|----------|-------|
+| John Doe     | Spanish  | January  | 85    |
+| Jane Smith   | French   | January  | 90    |
+| Ahmed Zain   | German   | February | 78    |
+| Maria Garcia | Spanish  | March    | 92    |
+| Chloe Sun    | Chinese  | January  | 88    |
+| Ethan Ray    | French   | February | 95    |
+| Olivia Shen  | Chinese  | March    | 80    |
+| Noah Lee     | German   | January  | 83    |
+| Sophia Park  | Spanish  | February | 87    |
+| Liam Brown   | French   | March    | 91    |
+| Ava Taylor   | German   | January  | 76    |
+| Isabella Ma  | Chinese  | February | 84    |
+| Mia Wong     | Spanish  | March    | 89    |
+| Lucas Ko     | French   | January  | 82    |
+| Amelia Pond  | German   | February | 79    |
+| Harper Zhou  | Chinese  | March    | 81    |
+| Mason Li     | Spanish  | January  | 93    |
+| Charlotte Wu | French   | February | 77    |
+| Oliver Smith | German   | March    | 86    |
+| Emily Chen   | Chinese  | January  | 90    |
 
 
