@@ -1,7 +1,7 @@
 # 📕 Intermediate Manual: Enhancing Data Handling Skills in Colab Using Pandas for Language Teachers
 Congratulations on mastering the basics of handling DataFrames in Colab using Pandas! This intermediate manual is designed to build upon your foundational knowledge and introduce you to more powerful features of Pandas that can further enhance your language teaching methodologies. You will learn how to manipulate and analyze language learning data more efficiently, including filtering data, handling missing values, and performing basic data analysis.
 
-# Advanced Data Manipulation
+# 🔲 Advanced Data Manipulation
 ## [1] Filtering Data
 Filtering allows you to view or manipulate a subset of your data based on certain criteria, which is useful for focusing on specific groups of language learners or types of vocabulary.
 
@@ -36,7 +36,7 @@ parts_of_speech_counts = df['Part of Speech'].value_counts()
 
 This line of code will give you a series where each index is a part of speech and each value is the count of words belonging to that part of speech.
 
-# Advanced Data Visualization
+# 🔲 Advanced Data Visualization
 Visualization is a powerful tool for understanding and presenting data. Pandas integrates with Matplotlib, a Python plotting library, to enable easy visualization of data directly from DataFrames.
 
 ### Example: Visualizing Word Counts by Part of Speech
@@ -54,7 +54,7 @@ plt.show()
 
 This code plots a bar chart where each bar represents a part of speech, and the height of the bar indicates the number of words in that category.
 
-# Saving and Sharing Your Notebooks
+# 🔲 Saving and Sharing Your Notebooks
 Google Colab allows you to save your notebooks directly to Google Drive or export them in various formats, such as .ipynb (Jupyter Notebook) or .pdf, making it easy to share your analyses and findings with colleagues or students.
 
 To save your notebook:
