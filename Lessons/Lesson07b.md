@@ -59,6 +59,8 @@ Google Colab allows you to save your notebooks directly to Google Drive or expor
 
 To save your notebook:
 
+**Go to "File: > "Save a copy in github"**
+
 **Go to "File" > "Save" or "Save a copy in Drive" to save your work in Google Drive.**
 
 To download the notebook, go to "File" > "Download" and select your preferred format.
