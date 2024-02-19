@@ -1,4 +1,4 @@
-# 📙 A Beginner's Manual to Handling DataFrames in Colab Using Pandas for Language Teachers
+# 📙 A Beginner's Manual to Handling DataFrames in Colab Using {Pandas} for Language Teachers
 
 Welcome to this beginner-friendly manual designed specifically for language teachers who are stepping into the world of coding with the intention of leveraging data to enhance teaching and learning experiences. This manual will introduce you to the basics of handling data using Pandas in Google Colab, a free, cloud-based platform that allows you to write and execute Python code. Our focus will be on DataFrames, reading from and saving to CSV files—skills that will enable you to manipulate data sets related to language learning in an environment you're already familiar with, like Excel.
 
@@ -72,5 +72,7 @@ df.to_csv('/content/drive/My Drive/path/to/updated_vocabulary_list.csv', index=F
 ```
 
 This manual introduced you to the basics of using Pandas in Google Colab for handling data related to language teaching and learning. By learning how to read from and save data to CSV files, you're now equipped to perform basic data manipulation tasks that can significantly enhance your language teaching methodologies. Remember, practice is key to becoming proficient in these new skills, so don't hesitate to experiment with your datasets.
+
+📕 [Move to the next level](https://github.com/MK316/Coding4ET/edit/main/Lessons/Lesson07b.md)
 
 
