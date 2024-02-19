@@ -1,3 +1,5 @@
+⬅️ [Back to Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md)
+
 # 📕 Intermediate Manual: Enhancing Data Handling Skills
 This intermediate manual is designed to build upon your foundational knowledge and introduce you to more powerful features of Pandas that can further enhance your language teaching methodologies. You will learn how to manipulate and analyze language learning data more efficiently, including filtering data, handling missing values, and performing basic data analysis.
 
