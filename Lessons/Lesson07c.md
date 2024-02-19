@@ -30,6 +30,29 @@ Below are five practice exercises designed to reinforce the concepts covered in 
 | Oliver Smith | German   | March    | 86    |
 | Emily Chen   | Chinese  | January  | 90    |
 
+### CSV file (comma separated)
+
+Student Name,Language,Month,Score
+John Doe,Spanish,January,85
+Jane Smith,French,January,90
+Ahmed Zain,German,February,78
+Maria Garcia,Spanish,March,92
+Chloe Sun,Chinese,January,88
+Ethan Ray,French,February,95
+Olivia Shen,Chinese,March,80
+Noah Lee,German,January,83
+Sophia Park,Spanish,February,87
+Liam Brown,French,March,91
+Ava Taylor,German,January,76
+Isabella Ma,Chinese,February,84
+Mia Wong,Spanish,March,89
+Lucas Ko,French,January,82
+Amelia Pond,German,February,79
+Harper Zhou,Chinese,March,81
+Mason Li,Spanish,January,93
+Charlotte Wu,French,February,77
+Oliver Smith,German,March,86
+Emily Chen,Chinese,January,90
 
 
 # Exercise 2: Filtering Data
