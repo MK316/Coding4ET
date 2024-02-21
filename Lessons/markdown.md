@@ -110,6 +110,13 @@ Create tables by separating headers and columns with dashes (-) and pipes (|).
 | Row 1    | Data     | Data     |
 | Row 2    | Data     | Data     |
 ```
+The above displays like this:
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+
 
 ## Task Lists
 To create a task list, start items with a dash and a space, followed by [ ] for an incomplete task or [x] for a completed task.
