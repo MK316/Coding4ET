@@ -1,4 +1,4 @@
-⬅️ [Back to Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) | [Next: Practice](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md) ➡️ 
+⬅️ [Back to Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) | [Next: Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md) ➡️ 
 
 # 📕 Part II: Intermediate Manual: Enhancing Data Handling Skills
 This intermediate manual is designed to build upon your foundational knowledge and introduce you to more powerful features of Pandas that can further enhance your language teaching methodologies. You will learn how to manipulate and analyze language learning data more efficiently, including filtering data, handling missing values, and performing basic data analysis.
@@ -69,4 +69,4 @@ To download the notebook, go to "File" > "Download" and select your preferred fo
 
 
 
-⬅️ [Back to Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) | [Next: Practice](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)
+⬅️ [Back to Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) | [Next: Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)
