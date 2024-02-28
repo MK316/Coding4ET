@@ -1,6 +1,6 @@
 ⬅️ [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | [Next](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md)	▶️ 
 
-# 📙 A Beginner's Manual to Handling DataFrames in Colab Using {Pandas} for Language Teachers
+# 📙 Part 1: A Beginner's Manual to Handling DataFrames in Colab Using {Pandas} for Language Teachers
 
 Welcome to this beginner-friendly manual designed specifically for language teachers who are stepping into the world of coding with the intention of leveraging data to enhance teaching and learning experiences. This manual will introduce you to the basics of handling data using Pandas in Google Colab, a free, cloud-based platform that allows you to write and execute Python code. Our focus will be on DataFrames, reading from and saving to CSV files—skills that will enable you to manipulate data sets related to language learning in an environment you're already familiar with, like Excel.
 
