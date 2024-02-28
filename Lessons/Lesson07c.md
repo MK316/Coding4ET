@@ -53,4 +53,4 @@ Below are five practice exercises designed to reinforce the concepts covered in 
 
 
 
-⬅️ [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/Lessons/readme.md)✅ [Part I. ](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) |✅ [Part II. ](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md)
+⬅️ [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)✅ [Part I. ](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md) |✅ [Part II. ](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md)
