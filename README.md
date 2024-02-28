@@ -32,7 +32,7 @@ Lesson 5. [Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/L
 
 Lesson 6. [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)
 
-Lesson 7. [Dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)
+Lesson 7. Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)
 
 ---
 ## Acknowledgments
