@@ -152,17 +152,22 @@ By completing this assignment, you will gain hands-on experience in setting up a
 * Prepare a new python Notebook: In the Colab notebook, write a simple Python code as follows, and run the code.:
 
 ```
-# Simple code to print the current time
+# Simple code to print the current time in Seoul
 from datetime import datetime
+import pytz  # Import the pytz module for timezone calculations
 
-# Get current time
-now = datetime.now()
+# Define the timezone for Seoul
+seoul_timezone = pytz.timezone('Asia/Seoul')
+
+# Get current time in Seoul's timezone
+now_seoul = datetime.now(seoul_timezone)
 
 # Format the time
-current_time = now.strftime("%H:%M:%S")
+current_time_seoul = now_seoul.strftime("%H:%M:%S")
 
-# Print the current time
-print("Current Time:", current_time)
+# Print the current time in Seoul
+print("Current Time in Seoul:", current_time_seoul)
+
 
 ```
 
