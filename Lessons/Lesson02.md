@@ -149,8 +149,24 @@ By completing this assignment, you will gain hands-on experience in setting up a
 * Create New Notebook: Click on “File” > “New notebook”.
 
 ### Part 4: Save Notebook to GitHub
-* Prepare Notebook: In the Colab notebook, write a simple Python code (e.g., print("Hello, Spring 2024!")).
-* Save to GitHub:
+* Prepare a new python Notebook: In the Colab notebook, write a simple Python code as follows, and run the code.:
+
+```
+# Simple code to print the current time
+from datetime import datetime
+
+# Get current time
+now = datetime.now()
+
+# Format the time
+current_time = now.strftime("%H:%M:%S")
+
+# Print the current time
+print("Current Time:", current_time)
+
+```
+
+* Save it to your GitHub:
     * Click on “File” in your notebook.
     * Select “Save a copy in GitHub”.
     * Authorize Colab to access your GitHub account, if prompted.
@@ -158,7 +174,7 @@ By completing this assignment, you will gain hands-on experience in setting up a
     * Name the file “assign01.ipynb”.
     * Click “OK” to save.
 
-### Submission:
+### Submission: use our Github ID Google Sheet in the main page
 Submit the URL of your GitHub repository containing "assign01.ipynb".
 
 
