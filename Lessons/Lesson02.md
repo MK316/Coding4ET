@@ -1,7 +1,7 @@
 🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
 
 # Lesson 2 Getting Ready
-📢[Audio](https://github.com/mrkim21/mrkim21.github.io/blob/main/manual/audio.html)
+
 
 **Online platforms**
 
