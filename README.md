@@ -36,7 +36,7 @@ Lesson 7. Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lesso
 
 ---
 ## Acknowledgments
-
+![](https://github.com/MK316/Coding4ET/raw/main/sounds/Thismanual.mp3)
 1. This manual is written to be used as teaching material for improving digital literacy among future and current teachers of English, aiming to provide an easier approach to basic Python coding.
 
 2. This manual will continue to be updated and revised for the progress of the course.
