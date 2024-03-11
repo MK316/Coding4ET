@@ -2,6 +2,7 @@
 
 # Lesson 2 Getting Ready
 📢[Audio](https://github.com/mrkim21/mrkim21.github.io/blob/main/manual/audio.html)
+
 **Online platforms**
 
 We will use an online platform to code in the Python language (**Colab**) and to save and share the code (**Github**).
