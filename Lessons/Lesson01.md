@@ -1,5 +1,5 @@
 🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
-📢[Audio](https://github.com/mrkim21/mrkim21.github.io/main/manual/audio.html)
+📢[Audio](https://mrkim21.github.io/manual/audio.html)
 # Lesson 1 Introduction
 
 ### What is Python?
