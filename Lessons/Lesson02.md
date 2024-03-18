@@ -123,7 +123,7 @@ Use three hash symbols (###) for an even smaller heading.
 * **Objectives:**
 
     * Create a GitHub account.
-    * Create a new repository named "Spring2024".
+    * Create a new repository named **"S24"**.
     * Create your first notebook in Google Colab.
     * Save this notebook to your GitHub repository as "assign01.ipynb".
 
