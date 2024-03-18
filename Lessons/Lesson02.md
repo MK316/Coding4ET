@@ -86,7 +86,7 @@ Markdown is a lightweight markup language designed for easy readability and form
 This is the file you've made when you created a repository (Remember checking 'Add a README file')
 
 * Go to your Github account and Sign in (with your Google account)
-* Go to the repository 'Spring2024' > README.md
+* Go to the repository 'S24' > README.md
 * You can see an edit icon on the page (see below)
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image05.png)
