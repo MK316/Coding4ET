@@ -139,7 +139,7 @@ By completing this assignment, you will gain hands-on experience in setting up a
 * Log In to GitHub: Log in to your new GitHub account.
 * Create New Repository: Click on the "+" icon in the upper-right corner and select "New repository".
 * Repository Details:
-* Name your repository "Spring2024".
+* Name your repository "S24".
 * Choose “Public” to make it visible to others.
 * Initialize with a README (optional).
 * Create Repository: Click the “Create repository” button.
@@ -176,7 +176,7 @@ print("Current Time in Seoul:", current_time_seoul)
     * Click on “File” in your notebook.
     * Select “Save a copy in GitHub”.
     * Authorize Colab to access your GitHub account, if prompted.
-    * Choose the "Spring2024" repository.
+    * Choose the "S24" repository.
     * Name the file “assign01.ipynb”.
     * Click “OK” to save.
 
