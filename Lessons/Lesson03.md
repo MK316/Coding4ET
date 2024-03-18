@@ -14,7 +14,7 @@
 [🔝](#Lesson-3-Coding-Basics)
 ### ✨ Sample: write, run, and get the output (result)
 
-[Create a new Colab notebook - https://colab.google](https://colab.google/)
+Create a new Colab notebook - [https://colab.google](https://colab.google/)
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image07.png)
 
