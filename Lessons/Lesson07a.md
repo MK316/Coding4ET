@@ -35,6 +35,12 @@ If your CSV file is stored in Google Drive, you can mount your drive by followin
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+Here's how to unmount Google Drive
+```
+from google.colab import drive
+drive.flush_and_unmount()
+print('Drive unmounted successfully.')
+```
 Then, adjust the path to where your CSV file is stored within your Google Drive.
 
 ### Example:
