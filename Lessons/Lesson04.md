@@ -47,7 +47,17 @@ Strings are sequences of characters and are used to store text.
 ```
 # An example of a string
 name = input()  # A pop-up box will appear and wait for your input. Type a name.
-print("Hello, %s!"%name)
+print("Hello, %s!"%name)  # % operator: The % operator is used for string formatting. It links the string "Hello, %s!" with the variable name to replace the %s placeholder.
+```
+
+Or you can use Python's f-string for string formatting (from Python 3.6; same result)
+
++ Note: The currently Colab uses higher than Python 3.6, so you can use this f-string operator.
+
+```
+# An example of a string
+name = input()  # A pop-up box will appear and wait for your input. Type a name.
+print(f"Hello, {name}!)    # 
 ```
 
 ```
