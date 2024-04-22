@@ -27,6 +27,12 @@ Lesson 3. [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/L
 + 3.6 Module, Library, Package
   
 Lesson 4. [Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)
++ Number
++ String
++ List
++ Dictionary
++ Tuple
++ (Boolean, Set, NoneType)
 
 Lesson 5. [Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)
 
