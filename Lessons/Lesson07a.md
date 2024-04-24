@@ -76,7 +76,7 @@ Setting index=False ensures that Pandas does not write row indices into the CSV 
 If you've added a new column to your "vocabulary_list.csv" DataFrame, say "Example Sentence", and want to save this updated DataFrame, you would use:
 
 ```
-df.to_csv('/content/drive/My Drive/path/to/updated_vocabulary_list.csv', index=False)
+df.to_csv('/content/updated_vocabulary_list.csv', index=False)
 ```
 
 This manual introduced you to the basics of using Pandas in Google Colab for handling data related to language teaching and learning. By learning how to read from and save data to CSV files, you're now equipped to perform basic data manipulation tasks that can significantly enhance your language teaching methodologies. Remember, practice is key to becoming proficient in these new skills, so don't hesitate to experiment with your datasets.
