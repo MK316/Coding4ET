@@ -44,10 +44,10 @@ print('Drive unmounted successfully.')
 Then, adjust the path to where your CSV file is stored within your Google Drive.
 
 ### Example:
-Imagine you have a CSV file named "vocabulary_list.csv" with columns "Word", "Meaning", and "Part of Speech". To read this file, you would use:
+Imagine you have a CSV file named "vocabulary_list.csv" with columns "Word", "Meaning", and "Part of Speech". (You've uploaded this file on colab.) To read this file, you would use:
 
 ```
-df = pd.read_csv('/content/drive/My Drive/path/to/vocabulary_list.csv')
+df = pd.read_csv('/content/vocabulary_list.csv')
 ```
 
 ##  Viewing Your DataFrame
