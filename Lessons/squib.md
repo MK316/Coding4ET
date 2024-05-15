@@ -18,6 +18,6 @@ In journals or academic discussions, squibs are valuable for their ability to qu
 + Length: 3 pages (max.)
 + Font size: 11, Tines New Roman
 + Due by: Saturday, June 22, midnight
-+ File format: Submit in a pdf format
-+ Submit to: [Padlet](https://padlet.com/mirankim316/S24Corpus)
++ File format: [1] Submit in a pdf format, [2] Code page link (from your github)
++ Submit pdf to: [Padlet](https://padlet.com/mirankim316/S24Corpus), and **include the code page link in the post**.
 + No cover page is expected.
