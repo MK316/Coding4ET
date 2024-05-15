@@ -1,4 +1,4 @@
-# Squib (Final report)
+# 🌱 Squib (Final report)
 
 In an academic setting, the term "squib" is often used to refer to a short, concise piece of writing that deals with a specific, often narrow, topic. These are generally not full research papers but are more akin to brief notes or observations that might not warrant a longer exposition but are still worthy of academic attention. Squibs can serve various purposes, such as:
 
@@ -10,7 +10,7 @@ In an academic setting, the term "squib" is often used to refer to a short, conc
 
 In journals or academic discussions, squibs are valuable for their ability to quickly disseminate ideas, foster dialogue, and address small yet significant points that contribute to the broader academic conversation. They are typically peer-reviewed, though the process might be faster and less rigorous than that for full-length articles, emphasizing the squib’s role in timely academic discourse.
 
-## For our purpose
+## Squib for our purpose
 
 + Case Study Analysis: Write a squib that applies the Chi-squared test to the provided dataset to analyze the relationship between specific categorical variables. This case study would not only demonstrate your ability to apply statistical methods but also encourage you to interpret the results in a real-world context. They could explore questions such as the strength and significance of associations between variables, discuss potential biases, and suggest implications for further research or practical application based on their findings. This type of squib would serve as a concise demonstration of your analytical skills and understanding of the statistical concepts we've learned.
 
