@@ -15,10 +15,10 @@ In journals or academic discussions, squibs are valuable for their ability to qu
 + Case Study Analysis: Write a squib that applies the Chi-squared test to the provided dataset to analyze the relationship between specific categorical variables. This case study would not only demonstrate your ability to apply statistical methods but also encourage you to interpret the results in a real-world context. They could explore questions such as the strength and significance of associations between variables, discuss potential biases, and suggest implications for further research or practical application based on their findings. This type of squib would serve as a concise demonstration of your analytical skills and understanding of the statistical concepts we've learned.
 
 ## Format
-+ Length: 3 pages (max.) including 2 plots (max.).
++ Length: 5 pages (max.) including 2~5 plots (min~max). Plot size (Should be smaller than 1/3 of the page size)
 + Font size: 11, Tines New Roman
 + Write in: English
-+ Due by: Saturday, June 22, midnight
++ Due by: Saturday, June 23, midnight
 + File format: [1] Submit in a pdf format, [2] Code page link (from your github)
 + Submit pdf to: [Padlet](https://padlet.com/mirankim316/S24Corpus), and **include the code page link in the post**.
 + No cover page is expected.
