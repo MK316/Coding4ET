@@ -139,7 +139,7 @@ By completing this assignment, you will gain hands-on experience in setting up a
 * Log In to GitHub: Log in to your new GitHub account.
 * Create New Repository: Click on the "+" icon in the upper-right corner and select "New repository".
 * Repository Details:
-* Name your repository "S24".
+* Name your repository "F24".
 * Choose “Public” to make it visible to others.
 * Initialize with a README (optional).
 * Create Repository: Click the “Create repository” button.
