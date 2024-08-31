@@ -1,22 +1,21 @@
 # 📗 Coding4ET
-**Coding for English Teachers**
+**Coding Basics for English Teachers**
 
-This is a course material for classes in Spring 2024.
+This is a course material for classes in 2024.
 
 ## 📂 Table of Contents
 
-🔸[Acknowledgment](#Acknowledgments)
-
-🔸[Overview](#Overview)
-
-Lesson 1. [Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)
-
-Lesson 2. [Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)
-+ 2.1 Github
-+ 2.2 Colab 
-+ 2.3 Markdown
-+ 2.4 DIY: [practice](https://github.com/MK316/Coding4ET/blob/main/colab.ipynb)
-+ 2.5 🌱 [Emoji](https://gist.github.com/rxaviers/7360908) to copy & paste
+||Lessons|Keywords|Exercises|
+|--|--|--|--|
+||🔸 [Acknowledgment](#Acknowledgments)|||
+||🔸 [Overview](#Overview)|||
+||Lesson 1. [Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)|||
+||Lesson 2. [Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)|||
+|||+ 2.1 Github||
+|||+ 2.2 Colab ||
+|||+ 2.3 Markdown||
+|||+ 2.4 DIY: [practice](https://github.com/MK316/Coding4ET/blob/main/colab.ipynb)||
+|||+ 2.5 🌱 [Emoji](https://gist.github.com/rxaviers/7360908) to copy & paste||
 
 Lesson 3. [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)
 + 3.1 Comments vs. Codes
