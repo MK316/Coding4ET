@@ -5,7 +5,7 @@
 
 **Online platforms**
 
-We will use an online platform to code in the Python language (**Colab**) and to save and share the code (**Github**).
+We will use **Google Colab**, an online coding platform, to code, and **Github** to save and share coding projects.
 
 + 2.1 Github
 + 2.2 Colab
