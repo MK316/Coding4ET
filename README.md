@@ -1,4 +1,4 @@
-# 📗 Coding4ET
+# 📗 Coding4ET (Updated as of Aug. 31, 2024)
 **Coding Basics for English Teachers**
 
 This is a course material for classes in 2024.
