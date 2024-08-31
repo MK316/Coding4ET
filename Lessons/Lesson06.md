@@ -9,7 +9,7 @@ If you're using Google Colab for coding, you can adapt the process accordingly. 
 
 Determine what specific English language skills you want to teach or practice, such as vocabulary, grammar, pronunciation, or reading comprehension.
 
-[Go to MoreDetails](https://github.com/MK316/Coding4ET/blob/main/Lessons/designing.md)
+🔮 [Go to MoreDetails](https://github.com/MK316/Coding4ET/blob/main/Lessons/designing.md)
 ## 2. Use Jupyter Notebooks:
 
 Create Jupyter notebooks in Google Colab to develop your app. Each notebook can focus on a specific topic or exercise.
