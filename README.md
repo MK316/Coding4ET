@@ -2,13 +2,12 @@
 **Coding Basics for English Teachers**
 
 **🔸 [Acknowledgment](#Acknowledgment)**
+**🔸 [Overview](#Overview)**
 
 ## 📂 Table of Contents
 
 ||Lessons|Keywords|Exercises|
 |--|--|--|--|
-|||||
-|||🔸 [Overview](#Overview)||
 ||Lesson 1. |[Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)||
 ||Lesson 2. |[Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)||
 |||2.1 Github||
