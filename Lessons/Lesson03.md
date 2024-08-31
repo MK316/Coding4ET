@@ -145,7 +145,7 @@ In Python, a variable is a container for storing data values. Unlike other progr
 
 + Dynamically Typed: Python automatically identifies the data type of a variable based on the type of its value, which means you don’t have to explicitly declare the data type of a variable.
 + Mutable: The value of a variable can be changed after it is created.
-+ **Naming Rules:**
++ **Rules for Python variables:**
     + Must start with a letter or the underscore character (_).
     + Cannot start with a number.
     + Can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).
