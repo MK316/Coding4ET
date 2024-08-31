@@ -1,4 +1,4 @@
-# Overview of designing a language application using Python coding
+# 🔮 Overview of designing a language application using Python coding
 
 ## 1. Identify Learning Objectives
 + **Purpose Identification:** Before designing an app, clearly define what English language skills the app will focus on. These might include vocabulary enhancement, grammar correction, pronunciation practice, or reading comprehension. Each feature should align with specific educational goals to ensure the app effectively supports students' language learning.
