@@ -22,7 +22,7 @@
 ||| 3.4 Operators|🐳 [EX3.4](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_4.ipynb)|
 ||| 3.5 Functions|🐳 [EX3.5](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_5.ipynb)|
 ||| 3.6 Module, Library, Package|🐳 [EX3.6](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_6.ipynb)|
-||Lesson 4. |[Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)||
+||Lesson 4. |[Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)|🐳 [EX4](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX4.ipynb)|
 ||| 4.1 Number||
 ||| 4.2 String||
 ||| 4.3 List||
