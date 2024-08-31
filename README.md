@@ -9,8 +9,8 @@ This is a course material for classes in 2024.
 |--|--|--|--|
 ||🔸 [Acknowledgment](#Acknowledgments)|||
 ||🔸 [Overview](#Overview)|||
-||Lesson 1. [Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)|||
-||Lesson 2. [Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)|||
+||Lesson 1. |[Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)||
+||Lesson 2. |[Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)||
 |||2.1 Github||
 |||2.2 Colab ||
 |||2.3 Markdown||
