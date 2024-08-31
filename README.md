@@ -28,7 +28,8 @@
 ||| 4.3 List||
 ||| 4.4 Dictionary||
 ||| 4.5 Tuple||
-||| 4.6 Boolean, Set, NoneType||
+||| 4.6 Set||
+||| 4.7 Boolean, Set, NoneType||
 ||Lesson 5. |[Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)||
 ||Lesson 6. |[Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)||
 ||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
