@@ -23,12 +23,12 @@
 ||| 3.5 Functions|🐳 [EX3.5](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_5.ipynb)|
 ||| 3.6 Module, Library, Package|🐳 [EX3.6](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_6.ipynb)|
 ||Lesson 4. |[Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)||
-||| Number||
-||| String||
-||| List||
-||| Dictionary||
-||| Tuple||
-||| (Boolean, Set, NoneType)||
+||| 4.1 Number||
+||| 4.2 String||
+||| 4.3 List||
+||| 4.4 Dictionary||
+||| 4.5 Tuple||
+||| 4.6 Boolean, Set, NoneType||
 ||Lesson 5. |[Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)||
 ||Lesson 6. |[Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)||
 ||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
