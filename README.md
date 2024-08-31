@@ -7,8 +7,8 @@ This is a course material for classes in 2024.
 
 ||Lessons|Keywords|Exercises|
 |--|--|--|--|
-||🔸 [Acknowledgment](#Acknowledgments)|||
-||🔸 [Overview](#Overview)|||
+|||🔸 [Acknowledgment](#Acknowledgments)||
+|||🔸 [Overview](#Overview)||
 ||Lesson 1. |[Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)||
 ||Lesson 2. |[Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)||
 |||2.1 Github||
@@ -16,28 +16,23 @@ This is a course material for classes in 2024.
 |||2.3 Markdown||
 |||2.4 DIY: [practice](https://github.com/MK316/Coding4ET/blob/main/colab.ipynb)||
 |||2.5 🌱 [Emoji](https://gist.github.com/rxaviers/7360908) to copy & paste||
-
-Lesson 3. [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)
-+ 3.1 Comments vs. Codes
-+ 3.2 Input vs. output
-+ 3.3 Variables
-+ 3.4 Operators
-+ 3.5 Functions
-+ 3.6 Module, Library, Package
-  
-Lesson 4. [Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)
-+ Number
-+ String
-+ List
-+ Dictionary
-+ Tuple
-+ (Boolean, Set, NoneType)
-
-Lesson 5. [Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)
-
-Lesson 6. [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)
-
-Lesson 7. Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)
+||Lesson 3.| [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)||
+||| 3.1 Comments vs. Codes||
+||| 3.2 Input vs. output||
+||| 3.3 Variables||
+||| 3.4 Operators||
+||| 3.5 Functions||
+||| 3.6 Module, Library, Package||
+||Lesson 4. |[Data Types](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson04.md)||
+||| Number||
+||| String||
+||| List||
+||| Dictionary||
+||| Tuple||
+||| (Boolean, Set, NoneType)||
+||Lesson 5. |[Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)||
+||Lesson 6. |[Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md)||
+||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
 
 ---
 ## Acknowledgments
