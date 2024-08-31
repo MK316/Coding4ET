@@ -1,13 +1,17 @@
 # 📗 Coding4ET (Updated as of Aug. 31, 2024)
 **Coding Basics for English Teachers**
 
-This is a course material for classes in 2024.
+### 🔸 Acknowledgment
+📢[Audio](https://mrkim21.github.io/manual/audio.html)
+1. This manual is written to be used as teaching material for improving digital literacy among future and current teachers of English, aiming to provide an easier approach to basic Python coding.
+2. This manual will continue to be updated and revised for the progress of the course.
+3. ChatGPT 4.0 was used to rewrite the text for readability, check for English grammar, and create examples.
 
 ## 📂 Table of Contents
 
 ||Lessons|Keywords|Exercises|
 |--|--|--|--|
-|||🔸 [Acknowledgment](#Acknowledgments)||
+|||||
 |||🔸 [Overview](#Overview)||
 ||Lesson 1. |[Introduction](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson01.md)||
 ||Lesson 2. |[Getting Ready](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md)||
@@ -35,14 +39,6 @@ This is a course material for classes in 2024.
 ||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
 
 ---
-## Acknowledgments
-📢[Audio](https://mrkim21.github.io/manual/audio.html)
-1. This manual is written to be used as teaching material for improving digital literacy among future and current teachers of English, aiming to provide an easier approach to basic Python coding.
-
-2. This manual will continue to be updated and revised for the progress of the course.
-
-3. ChatGPT 4.0 was used to rewrite the text for readability, check for English grammar, and create examples.
-
 
 
 ## Overview
