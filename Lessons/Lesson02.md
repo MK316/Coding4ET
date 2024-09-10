@@ -123,7 +123,7 @@ Use three hash symbols (###) for an even smaller heading.
 * **Objectives:**
 
     * Create a GitHub account.
-    * Create a new repository named **"S24"**.
+    * Create a new repository.
     * Create your first notebook in Google Colab.
     * Save this notebook to your GitHub repository as "assign01.ipynb".
 
@@ -139,7 +139,7 @@ By completing this assignment, you will gain hands-on experience in setting up a
 * Log In to GitHub: Log in to your new GitHub account.
 * Create New Repository: Click on the "+" icon in the upper-right corner and select "New repository".
 * Repository Details:
-* Name your repository "F24".
+* Name your repository **"Practice"**.
 * Choose “Public” to make it visible to others.
 * Initialize with a README (optional).
 * Create Repository: Click the “Create repository” button.
@@ -176,12 +176,9 @@ print("Current Time in Seoul:", current_time_seoul)
     * Click on “File” in your notebook.
     * Select “Save a copy in GitHub”.
     * Authorize Colab to access your GitHub account, if prompted.
-    * Choose the "S24" repository.
+    * Choose the "Practice" repository.
     * Name the file “assign01.ipynb”.
     * Click “OK” to save.
-
-### Submission: use our Github ID Google Sheet in the main page
-Submit the URL of your GitHub repository containing "assign01.ipynb".
 
 
 
