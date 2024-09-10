@@ -60,8 +60,8 @@ text_to_audio_and_play(text_to_speak)
 
 # 🌱 More code to practice
 
-+ Multimodality practice coding [Goto Colab](https://github.com/MK316/Coding4ET/blob/main/Multimodality_practice.ipynb)
-+ Text to text, text to speech, speech to text, image to text, Open online video, etc.
+### Multimodality practice coding [Goto Colab](https://github.com/MK316/Coding4ET/blob/main/Multimodality_practice.ipynb)
+### Text to text, text to speech, speech to text, image to text, Open online video, etc.
 
 
 [🔝](#Lesson-05-Multimodality)
