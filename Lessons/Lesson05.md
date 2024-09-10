@@ -59,7 +59,12 @@ text_to_audio_and_play(text_to_speak)
 ```
 # Install the necessary libraries if not already installed
 !pip install SpeechRecognition
+
 ```
+
+# 🌱 More code to practice
+
++ [Goto Colab](https://github.com/MK316/Coding4ET/blob/main/Multimodality_practice.ipynb)
 
 
 [🔝](#Lesson-05-Multimodality)
