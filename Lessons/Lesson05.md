@@ -7,7 +7,7 @@ Multimodality in the context of programming, especially for English language tea
 Below are simple Python code examples that demonstrate basic multimodal interactions. These examples assume a teaching environment where text (written words) and audio (spoken words) are key modes of interaction.
 
 
-## 1. Text input and output
+## 1. Text input and Text output
 This example takes text input from the user and responds with text output. It's a simple program that asks the user for their favorite book and responds with a message.
 
 ```
