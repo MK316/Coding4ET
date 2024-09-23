@@ -17,7 +17,7 @@
 |||2.5 🌱 [Emoji](https://gist.github.com/rxaviers/7360908) to copy & paste||
 ||Lesson 3.| [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)||
 ||| 3.1 Comments vs. Codes||
-||| 3.2 Input vs. output||
+||| 3.2 Input vs. output|[EX3.2](https://github.com/MK316/Coding4ET/blob/main/Exercises/Exercise3_2.ipynb)|
 ||| 3.3 Variables|🐳 [EX3.3](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_3.ipynb)|
 ||| 3.4 Operators|🐳 [EX3.4](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_4.ipynb)|
 ||| 3.5 Functions|🐳 [EX3.5](https://github.com/MK316/Coding4ET/blob/main/Lessons/EX3_5.ipynb)|
