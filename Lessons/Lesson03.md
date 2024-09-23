@@ -67,7 +67,7 @@ Examples:
 
 Definition: Output is the result produced by a computer after processing the input. This output can be displayed in various forms like text on a screen, sound through speakers, or even a printed document.
 Examples:
-+ Displaying text or images on a screen.
++ Displaying text or images on a screen. [Exercise 3.2: Reading a text file from Github](https://github.com/MK316/Coding4ET/blob/main/Exercises/Exercise3_2.ipynb)
 + Playing sound or music through speakers or headphones.
 + Sending a document to a printer.
 + Saving a file or sending data over the internet.
