@@ -319,6 +319,10 @@ word_count = count_words(sentence)
 print(f"The sentence contains {word_count} words.")
 
 ```
+**Explanation:**
+
++ Lambda Function: The lambda function **count_words** takes one argument **sentence**. It uses the string method **.split()** to divide the sentence into a list of words. The **len()** function then counts the number of items in this list, which corresponds to the number of words in the sentence.
+
 ### Best Practices
 + Descriptive Names: Use clear and descriptive names for functions.
 + Single Responsibility: Each function should do one thing well.
