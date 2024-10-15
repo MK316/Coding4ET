@@ -309,6 +309,7 @@ The return statement is used to exit a function and return a value. If there is 
 + User-Defined Functions: Created by users to perform specific tasks.
 + Anonymous Functions: Also known as lambda functions, used to create small, unnamed function objects.
 
+**Example: Counting words**
 ```
 # Lambda function to count the number of words in a sentence
 count_words = lambda sentence: len(sentence.split())
