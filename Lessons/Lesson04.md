@@ -5,10 +5,10 @@
 Python has several built-in data types that are commonly used. Here's a brief overview of each. Note that we will be focusing on some of the data types listed below for our purpose.
 
 * **Number:** integers, floating numbers
-* **String**
-* **List**
-* **Dictionary**
-* **Tuple**
+* **String: "a book", "1.23", "KL234", 'an apple', 'A cat chases a mouse.', etc**
+* **List:** [1, 2, 4, 8], ["apple","banana","melon"], ["1","apple","2","banana"], etc.
+* **Dictionary:** {'Subject': 'Mary', 'Object': "cakes", 'Verb': 'bought'}, {"ID": 20240235, 'Name': 'Mary'}, etc.
+* **Tuple:** e.g., months = ("January", "February","March", ....)
 
 ---
 ### 1. Number
