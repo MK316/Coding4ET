@@ -56,32 +56,3 @@ Running on public URL: https://6399aef62e38ac8b6c.gradio.live **Note:** This lin
 
 [🔝](## Gradio)
 
-# Gradio manual
-
-### 1. Installation
-
-
-### 2. Gradio code
-
-**Sample1**
-
-```
-import gradio as gr
-
-def greet(name, repeat):
-    return "Hello " * repeat + name + "!"
-
-demo = gr.Interface(
-    fn=greet,
-    inputs=["text", "slider"],
-    outputs=["text"],
-)
-
-demo.launch()
-```
-
-
-
-
-
-[🔝](## Gradio)
