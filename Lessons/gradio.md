@@ -1,4 +1,4 @@
-# Gradio
+# 🌀 Gradio
 
 + **Gradio** is an open-source Python library that simplifies the process of building and deploying interactive machine learning and deep learning models with user-friendly interfaces. It allows developers, data scientists, and machine learning practitioners to create web-based interfaces for their models with minimal code. Gradio is designed to make it easy to share and showcase machine learning models with non-technical users.
 + [Gradio website](https://www.gradio.app/)
