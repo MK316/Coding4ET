@@ -54,5 +54,4 @@ Running on public URL: https://6399aef62e38ac8b6c.gradio.live **Note:** This lin
 >
 ![](https://github.com/MK316/Coding4ET/blob/main/images/gradio1.png)
 
-[🔝](## Gradio)
 
