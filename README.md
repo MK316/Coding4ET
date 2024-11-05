@@ -1,5 +1,5 @@
-# 📗 Coding4ET (Updated as of Nov. 6, 2024)
-**Coding Basics for English Teachers**
+# 📗 Coding4ET
+**Coding Basics for English Teachers  (Updated as of Nov. 6, 2024)**
 
 **🔸 [Acknowledgment](#Acknowledgment)**
 **🔸 [Overview](#Overview)**
