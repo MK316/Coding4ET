@@ -20,8 +20,15 @@ For instance,
 import pandas as pd  # Import pandas library
 
 # Example DataFrame
-data = {'Word': ['apple', 'banana', 'cherry'],
-        'Meaning': ['A fruit', 'Another fruit', 'A red fruit']}
+data = {
+    'Word': ['apple', 'banana', 'cherry'],
+    'Meaning': [
+        'A round fruit with red, green, or yellow skin, and a crisp white interior.',
+        'A long, curved fruit with a soft, starchy interior, typically yellow when ripe.',
+        'A small, round, red fruit with a juicy interior and a pit in the center.'
+    ]
+}
+
 df = pd.DataFrame(data)
 
 print(df)  # Display the DataFrame
@@ -31,12 +38,22 @@ print(df)  # Display the DataFrame
 Output:
 
 ```
-     Word         Meaning
-0   apple        A fruit
-1  banana   Another fruit
-2  cherry     A red fruit
+     Word   Meaning
+0   apple   A round fruit with red, green, or yellow skin, and a crisp white interior.
+1  banana   A long, curved fruit with a soft, starchy interior, typically yellow when ripe.
+2  cherry   A small, round, red fruit with a juicy interior and a pit in the center.
 
 ```
+
+Output in csv file:
+
+|  |Word|Meaning|
+|--|--|--|
+|0|   apple|   A round fruit with red, green, or yellow skin, and a crisp white interior.|
+|1|  banana|   A long, curved fruit with a soft, starchy interior, typically yellow when ripe.|
+|2|  cherry|   A small, round, red fruit with a juicy interior and a pit in the center.|
+
+
 
 ## 2. Loading and Saving CSV Files in Colab
 CSV files are common for storing data. Here's how to handle them in Google Colab.
