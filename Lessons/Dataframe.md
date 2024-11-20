@@ -1,4 +1,4 @@
-# Python dataframes and CSV file handling for beginners
+# 🍃 Dataframes and CSV file handling for beginners
 
 + Using Colab and Gradio
 + This manual introduces DataFrame basics, CSV handling in Colab, and builds toward creating a simple Gradio-based language application. Each section progressively increases in complexity, with hands-on coding examples and practice questions.
