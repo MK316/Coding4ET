@@ -187,4 +187,7 @@ interface = gr.Interface(
 interface.launch()
 
 ```
+### More samples
+
++ 🐥 [Quiz making using Gradio](https://github.com/MK316/Coding4ET/blob/main/Lessons/gradioAPP_sample_1120.ipynb)
 
