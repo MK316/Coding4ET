@@ -127,7 +127,7 @@ interface.launch()
 
 1. Load and Explore a CSV:
 
-+ Download a CSV file with English words and their IPA transcriptions.
++ Download a CSV file with English words and their IPA transcriptions. 💾 [File to download](https://raw.githubusercontent.com/MK316/Coding4ET/refs/heads/main/data/word_transcriptions.csv)
 + Load the CSV file into a DataFrame in Colab and display the first five rows.
 
 2. Modify the DataFrame:
@@ -151,7 +151,7 @@ import gradio as gr
 
 # Example Data
 data = {'Word': ['apple', 'banana', 'cherry'],
-        'IPA': ['ˈæp.l̩', 'bəˈnænə', 'ˈʧɛri']}
+        'IPA': ['ˈæppl̩', 'bəˈnænə', 'ˈʧɛri']}
 df = pd.DataFrame(data)
 
 def ipa_transcription(word):
