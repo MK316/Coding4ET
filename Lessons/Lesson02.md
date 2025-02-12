@@ -23,7 +23,7 @@ We will use **Google Colab**, an online coding platform, to code, and **Github**
 * Visit the website: [https://github.com](https://github.com)
 * Create your account ID: e.g., MK316 (with your Google account)
 * Your site: github.com/*youraccountID*   e.g., [https://github.com/*MK316*](https://github.com/MK316)
-* Create a repository named 'Spring2024' with Readme.md file (see images below)
+* Create a repository named 'Spring2025' with Readme.md file (see images below)
 
 🔘 Step 01: For example, click **'repositories'** and **'new'** after logging on the account MK316
 
