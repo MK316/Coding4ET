@@ -64,3 +64,6 @@ print("Current Time in Seoul:", current_time_seoul)
     * Click “OK” to save.
     * Visit your Github repository and check whether the file is saved in the designated repository.
 
+---
+🐣 This is the end of the assignment description :-)
+
