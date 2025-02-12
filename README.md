@@ -13,7 +13,7 @@
 |||2.1 Github||
 |||2.2 Colab ||
 |||2.3 Markdown||
-|||2.4 DIY: [practice](https://github.com/MK316/Coding4ET/blob/main/colab.ipynb)||
+|||2.4 DIY: [practice](https://github.com/MK316/Coding4ET/blob/main/colab.ipynb)| Open a Python file on Colab|
 |||2.5 🌱 [Emoji](https://gist.github.com/rxaviers/7360908) to copy & paste||
 ||Lesson 3.| [Coding Basics](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)||
 ||| 3.1 Comments vs. Codes||
