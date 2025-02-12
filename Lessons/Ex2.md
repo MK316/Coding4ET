@@ -1,4 +1,4 @@
-## Assignment01 (Lesson 2)
+## 🌀 Assignment01 (Lesson 2)
 
 ### DIY Setting Up GitHub and Google Colab
 
