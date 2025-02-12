@@ -2,7 +2,7 @@
 
 ### DIY Setting Up GitHub and Google Colab
 
-* **Objectives:**
+* **Objectives: you'll be practicing the following**
 
     * Create a GitHub account.
     * Create a new repository named 'Practice' in your Github account.
@@ -62,4 +62,5 @@ print("Current Time in Seoul:", current_time_seoul)
     * Choose the "Practice" repository.
     * Name the file “assign01.ipynb”.
     * Click “OK” to save.
+    * Visit your Github repository and check whether the file is saved in the designated repository.
 
