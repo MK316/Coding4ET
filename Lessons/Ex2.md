@@ -5,9 +5,9 @@
 * **Objectives:**
 
     * Create a GitHub account.
-    * Create a new repository.
-    * Create your first notebook in Google Colab.
-    * Save this notebook to your GitHub repository as **"assign01.ipynb"**.
+    * Create a new repository named 'Practice' in your Github account.
+    * Create your first notebook using Google Colab.
+    * Save this notebook to your GitHub repository as **"assign01.ipynb"** under the repository "Practice".
 
 * **Goal:**
 By completing this assignment, you will gain hands-on experience in setting up a GitHub account, creating repositories, and integrating GitHub with Google Colab. This will lay the foundation for future projects involving code sharing and collaboration.
