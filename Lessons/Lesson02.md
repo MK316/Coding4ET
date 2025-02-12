@@ -75,6 +75,14 @@ Colab's combination of these two cell types allows for a mix of narrative, code,
 **Note:** When you hover the mouse cursor in the middle of the top or bottom of a cell (e.g., in the given image, the cursor is placed at the bottom of the given cell), options for '+ Code' and '+ Text' appear. By selecting one of these, you can add a new cell either above or below the current one.
 
 
+**2. Saving a copy of your notebook to Github** 
+
+- Find 'File' button on the top menu.
+- Click 'Save a copy in Github' (if this doesn't show, find 'Save a copy in Github Gist' > then save the file again to Github)
+- In a saving pop-up window, check 'Repository' and the file name.
+- Click 'OK' > Then the file will reopen in your Github. (If this doesn't happen, the file isn't saved correctly.)
+- Visit your Github account and see whether it is saved in the designated place.
+
 [🔝](#Lesson-2-Getting-Ready)
 
 ## 2.3 Markdown
