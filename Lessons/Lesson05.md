@@ -1,5 +1,3 @@
-🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
-
 # Lesson 05 Multimodality
 
 Multimodality in the context of programming, especially for English language teachers, refers to the use of multiple modes of input and output to interact with a program. This can include text, audio, visuals, and more. In an educational setting, multimodal programs can enhance the teaching and learning experience, catering to different learning styles and needs.
