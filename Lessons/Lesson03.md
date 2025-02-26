@@ -1,5 +1,3 @@
-🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
-
 # Lesson 3 Coding Basics
 
 ### ⭐ Key concepts
