@@ -1,4 +1,4 @@
-🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
+
 📢[Audio](https://mrkim21.github.io/manual/audio.html)
 # Lesson 1 Introduction
 
@@ -36,4 +36,3 @@ Google Colab is a free, cloud-based environment that allows you to write and exe
 3. A new notebook with an empty cell will open where you can start writing Python code.
 4. Press Shift + Enter to execute the code in a cell.
 
-🔍[BACK to the Main page](https://github.com/MK316/Coding4ET/blob/main/README.md)
