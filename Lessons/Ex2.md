@@ -64,6 +64,7 @@ print("Current Time in Seoul:", current_time_seoul)
     * Click “OK” to save.
     * Visit your Github repository and check whether the file is saved in the designated repository.
 
+### Part 5: Check a possible application with the above code [here: Saying time in a city](https://dlclass.streamlit.app/%F0%9F%8D%8B_App:_Exercises)
 ---
 🐣 This is the end of the assignment description :-)
 
