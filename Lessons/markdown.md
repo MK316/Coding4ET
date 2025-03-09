@@ -3,12 +3,12 @@ Welcome to the Markdown Manual for Beginners! Markdown is a lightweight markup l
 
 Using Markdown, you can format words as bold or italic, add images, create lists, and more—all with plain text. This guide will introduce you to the basics of Markdown, providing you with the tools to start creating formatted text documents.
 
-## Why Use Markdown?
+## 1. Why Use Markdown?
 + Simplicity: Markdown is easy to learn and use.
 + Portability: Markdown files are plain text, so they're compatible with any text editor and operating system.
 + Flexibility: You can convert Markdown to HTML, PDF, and other formats.
 
-## Basic Syntax
+## 2. Basic Syntax
 ### Headings
 Headings from h1 through h6 are produced by adding # before the heading text. The number of # symbols before the text represents the depth of the heading. For example:
 
@@ -100,7 +100,7 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
 ---
 ```
 
-## Advanced Formatting
+## 3. Advanced Formatting
 ### Tables
 Create tables by separating headers and columns with dashes (-) and pipes (|).
 
