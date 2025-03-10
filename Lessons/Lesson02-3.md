@@ -1,8 +1,9 @@
-## 2.3 Markdown
+## 2.3 Markdown with Task (Assignment #2)
 
+### Task: Now referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). (due by )
 Markdown is a lightweight markup language designed for easy readability and formatting. It uses simple syntax like # for headers, * for emphasis, and [link](URL) for hyperlinks, allowing users to create structured documents with plain text.
 
-🐣 Practice on your README.md file
+🐣 Practice first on your README.md file
 
 This is the file you've made when you created a repository (Remember checking 'Add a README file')  
 _Note:_ If you haven't created a readme.md file when you made 'Practice' repository, then you can create one now.
@@ -10,18 +11,13 @@ _Note:_ If you haven't created a readme.md file when you made 'Practice' reposit
 * Go to your Github account and Sign in (with your Google account)
 * Go to the repository 'Practice' > README.md or readme.md
 * You can see an edit icon on the page (see below)
+* To save, click "Commit changes" on the top right.
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image05.png)
 
 **Note:** You will learn about the Markdown language bit by bit as necessary when relevant topics come up. For now, let's just briefly introduce what the Markdown language and README files (with the .md extension) are, and practice that.
 
-**📍Instruction: Try the following conventions in your README.md file.**
-
-**📍Instruction:** Try this. Write texts as appearing on the left, and save it ("Commit changes"), then you'll see the formatted text on the right.
-
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
-
-### Task: Now referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). (due by )
 
 ---
 ## 📗 Markdown Manual for Beginners
