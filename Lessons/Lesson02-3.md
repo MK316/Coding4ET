@@ -1,4 +1,4 @@
-## 2.3 Markdown with Task (Assignment #2 due by 3/17)
+## 2.3 Markdown with Task (Assignment #3 due by 3/24)
 
 Markdown is a lightweight markup language designed for easy readability and formatting. It uses simple syntax like # for headers, * for emphasis, and [link](URL) for hyperlinks, allowing users to create structured documents with plain text.
 
