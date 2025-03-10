@@ -21,7 +21,7 @@ _Note:_ If you haven't created a readme.md file when you made 'Practice' reposit
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
-### Task: Now referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in the image. (due by )
+### Task: Now referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). (due by )
 
 ---
 ## 📗 Markdown Manual for Beginners
