@@ -32,5 +32,5 @@ Here are some words from the story you might not know:
 - Think about a time when you had to use your cleverness to solve a problem.
 - Write a few sentences on how you could use kindness in that situation as well.
 
-📌_**Note:** Don't forget to submit your reflection by next Wednesday!_
+📌 _**Note:** Don't forget to submit your reflection by next Wednesday!_
 
