@@ -12,7 +12,7 @@ _"Hi Freddy! I heard you wished for a friend,"_ Sam said with a bright smile.
 Delighted, Freddy welcomed Sam, and the two quickly became inseparable. Together, they explored the forest, solving problems and helping other creatures. Freddy found that with Sam, every day was filled with joy and new discoveries.
 
 ![Image of a Fox](https://github.com/MK316/Coding4ET/raw/main/images/fox.jpg)
-[image link to use](https://github.com/MK316/Coding4ET/raw/main/images/fox.jpg)
+📌[image link to use](https://github.com/MK316/Coding4ET/raw/main/images/fox.jpg)
 
 ### Moral of the Story
 The moral of the story is: _"Cleverness is a gift, but kindness is a choice."_ Always choose to be kind.
@@ -24,7 +24,7 @@ Here are some words from the story you might not know:
 |---|------------|----------------|
 |1| Dense      | Closely packed |
 |2| Witty      | Showing or characterized by quick and inventive verbal humor |
-|3||(Find 3 more words to teach from the reading and complete this table for your task!)|
+|3||(📌Find 3 more words to teach from the reading and complete this table for your task!)|
 |4|||
 |5|||
 
@@ -32,5 +32,5 @@ Here are some words from the story you might not know:
 - Think about a time when you had to use your cleverness to solve a problem.
 - Write a few sentences on how you could use kindness in that situation as well.
 
-_**Note:** Don't forget to submit your reflection by next Wednesday!_
+📌_**Note:** Don't forget to submit your reflection by next Wednesday!_
 
