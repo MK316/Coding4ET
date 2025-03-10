@@ -1,4 +1,4 @@
-# 🦊 Reading Lesson: The Clever Fox 
+# 🦊 Reading Lesson: "The Clever Fox"
 
 ## 1. Read Aloud
 Once upon a time in a dense forest, there lived a clever fox named **Freddy**. Known for his wit and intelligence, Freddy's adventures were the stuff of legend among the forest inhabitants.
