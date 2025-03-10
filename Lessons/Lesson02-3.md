@@ -18,7 +18,10 @@ _Note:_ If you haven't created a readme.md file when you made 'Practice' reposit
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
-### Step 2: 🐣 Task to complete: Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). This assignment should be completed collaboratively with group members, but each member must complete the assignment individually as well. (due by 3/17)
+### Step 2: 🐣 Task to complete
+
+**Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). This assignment should be completed collaboratively with group members, but each member must complete the assignment individually as well. (due by 3/17)**
+
 ---
 ## 📗 Markdown Manual for Beginners
 Welcome to the Markdown Manual for Beginners! Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
