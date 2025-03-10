@@ -20,11 +20,13 @@ The moral of the story is: _"Cleverness is a gift, but kindness is a choice."_ A
 ## Vocabulary Table
 Here are some words from the story you might not know:
 
-| Word       | Meaning        |
-|------------|----------------|
-| Dense      | Closely packed |
-| Clever     | Quick to understand and learn |
-| Witty      | Showing or characterized by quick and inventive verbal humor |
+|| Word       | Meaning        |
+|---|------------|----------------|
+|1| Dense      | Closely packed |
+|2| Witty      | Showing or characterized by quick and inventive verbal humor |
+|3||(Find 3 more words to teach from the reading and complete this table for your task!)|
+|4|||
+|5|||
 
 ## Reflection
 - Think about a time when you had to use your cleverness to solve a problem.
