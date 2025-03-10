@@ -16,7 +16,7 @@ This is the file you've made when you created a repository (Remember checking 'A
 
 **📍Instruction: Try the following conventions in your README.md file.**
 
-For instance, if you write texts as appearing on the left, and then save it, then you'll see the formatted text on the right.
+**📍Instruction: Try this. Write texts as appearing on the left, and save it ("Commit changes"), then you'll see the formatted text on the right.
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
