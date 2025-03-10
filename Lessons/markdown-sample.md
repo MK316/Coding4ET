@@ -1,6 +1,6 @@
 # Reading Lesson: The Clever Fox 🦊
 
-## Story Time
+## 1. Read Aloud
 Once upon a time in a dense forest, there lived a clever fox named **Freddy**. Known for his wit and intelligence, Freddy's adventures were the stuff of legend among the forest inhabitants.
 
 One day, Freddy discovered a shimmering pond while exploring a remote part of the forest. Curious, he crafted a fishing rod from a branch and vine, and soon caught a golden fish that surprisingly spoke, offering him three wishes for its release.
@@ -14,10 +14,10 @@ Delighted, Freddy welcomed Sam, and the two quickly became inseparable. Together
 ![Image of a Fox](https://github.com/MK316/Coding4ET/raw/main/images/fox.jpg)
 📌[image link to use](https://github.com/MK316/Coding4ET/raw/main/images/fox.jpg)
 
-### Moral of the Story
+## 2. Moral of the Story
 The moral of the story is: _"Cleverness is a gift, but kindness is a choice."_ Always choose to be kind.
 
-## Vocabulary Table
+## 3. Vocabulary Table
 Here are some words from the story you might not know:
 
 || Word       | Meaning        |
@@ -28,7 +28,7 @@ Here are some words from the story you might not know:
 |4|||
 |5|||
 
-## Reflection
+## 4. Reflection
 - Think about a time when you had to use your cleverness to solve a problem.
 - Write a few sentences on how you could use kindness in that situation as well.
 
