@@ -119,8 +119,8 @@ This is a code block
 ```
 ```
 
-#### Horizontal Rules
-To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___).
+#### Horizontal lines
+To create a horizontal line, use three or more asterisks (***), dashes (---), or underscores (___).
 
 ```
 ---
