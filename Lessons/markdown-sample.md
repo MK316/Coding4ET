@@ -11,7 +11,7 @@ _"Hi Freddy! I heard you wished for a friend,"_ Sam said with a bright smile.
 
 Delighted, Freddy welcomed Sam, and the two quickly became inseparable. Together, they explored the forest, solving problems and helping other creatures. Freddy found that with Sam, every day was filled with joy and new discoveries.
 
-![Image of a Fox](https://example.com/fox-image.jpg) <!-- Replace with a valid image URL -->
+![Image of a Fox](https://github.com/MK316/Coding4ET/blob/main/images/fox.jpg)
 
 ### Moral of the Story
 The moral of the story is: _"Cleverness is a gift, but kindness is a choice."_ Always choose to be kind.
