@@ -1,4 +1,4 @@
-# English Lesson: The Clever Fox 🦊
+# Reading Lesson: The Clever Fox 🦊
 
 ## Story Time
 Once upon a time in a dense forest, there lived a clever fox named **Freddy**. Freddy was known throughout the forest for being both _smart_ and _witty_.
