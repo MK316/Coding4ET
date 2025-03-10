@@ -20,7 +20,7 @@ This is the file you've made when you created a repository (Remember checking 'A
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
-### TAsk: Now referring to the following manual, edit your readme.md file as shown in the image.
+### Task: Now referring to the following manual, edit your readme.md file as shown in the image.
 
 ---
 ## 📗 Markdown Manual for Beginners
