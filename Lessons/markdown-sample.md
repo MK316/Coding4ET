@@ -9,7 +9,7 @@ One day, while exploring the farthest part of the forest, Freddy stumbled upon a
 
 Eager to test his fishing skills, Freddy crafted a makeshift fishing rod from a sturdy branch and some vine. As he cast the line into the sparkling water, he waited patiently, his eyes twinkling with anticipation. To his delight, he caught a large, golden fish that spoke in a human voice!
 
-"Thank you for freeing me from the magic spell," the fish said. "As a reward, I will grant you three wishes."
+_"Thank you for freeing me from the magic spell,"_ the fish said. _"As a reward, I will grant you three wishes."_
 
 Freddy was taken aback but quickly thought of his desires. His first wish was for the forest to remain safe and bountiful for all its creatures. His second was for the wisdom to maintain his cleverness without falling into traps of his own making. And for his third wish, he asked for a friend who could share in his adventures and reflections.
 
