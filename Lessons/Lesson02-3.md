@@ -1,9 +1,8 @@
 ## 2.3 Markdown with Task (Assignment #2)
 
-### Task: Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). (due by )
 Markdown is a lightweight markup language designed for easy readability and formatting. It uses simple syntax like # for headers, * for emphasis, and [link](URL) for hyperlinks, allowing users to create structured documents with plain text.
 
-🐣 Practice first on your README.md file
+### Step 1: 🐣 Practice first on your README.md file
 
 This is the file you've made when you created a repository (Remember checking 'Add a README file')  
 _Note:_ If you haven't created a readme.md file when you made 'Practice' repository, then you can create one now.
@@ -19,6 +18,7 @@ _Note:_ If you haven't created a readme.md file when you made 'Practice' reposit
 
 ![](https://github.com/MK316/Coding4ET/raw/main/images/image06.png)
 
+### Step 2: 🐣 Task to complete: Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md). (due by )
 ---
 ## 📗 Markdown Manual for Beginners
 Welcome to the Markdown Manual for Beginners! Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
