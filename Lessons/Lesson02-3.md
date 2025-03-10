@@ -5,7 +5,7 @@ Markdown is a lightweight markup language designed for easy readability and form
 🐣 Practice on your README.md file
 
 This is the file you've made when you created a repository (Remember checking 'Add a README file')  
-_Note:_ If you haven't created a readme.md file when you made 'Practice' repository, then create one anytime.
+_Note:_ If you haven't created a readme.md file when you made 'Practice' repository, then create one now.
 
 * Go to your Github account and Sign in (with your Google account)
 * Go to the repository 'Practice' > README.md or readme.md
