@@ -202,7 +202,7 @@ When you run the above cells, you will see the output displayed, as follows:
 
 ```
 # Cell 3: Changing Variable Value
-age = 31
+age = 31      # Note that the value '30' was assigned to the variable 'age' in the Cell 2
 print(f"Updated Age: {age}")
 ```
 > Updated Age: 31  
