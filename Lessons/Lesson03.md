@@ -161,7 +161,7 @@ Here, the variable names clearly indicate what they represent, making the code m
 + [2] Consistency: Stick to a naming convention, like snake_case (e.g., my_variable).
 + [3] Avoid Globals: Try not to use global variables unless necessary. They can make the debugging process difficult.
 
-Global and local variables are two fundamental concepts in Python programming (and programming in general), relating to the scope of variables. Understanding their differences is crucial for managing how data is stored and modified in your programs.
+➡️ Global and local variables are two fundamental concepts in Python programming (and programming in general), relating to the scope of variables. Understanding their differences is crucial for managing how data is stored and modified in your programs.
 
 **Global variables**
 + Definition: A global variable is declared outside of all functions. This means it is accessible from any part of the program, including inside functions.
