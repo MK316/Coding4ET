@@ -19,7 +19,8 @@ Create a new Colab notebook - [https://colab.google](https://colab.google/)
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## 🌈 3.1 Comments vs codes
+## 🌈 3.1 
+## Comments vs codes
 **Comment cell and code cell**
 
 In Google Colab, cells can contain either code or comments. Code cells are used for writing and executing Python code. When you run a code cell, Colab processes the Python code and displays the output. Comments, on the other hand, are non-executable lines in the code, used for explaining or annotating the code for better understanding. In Python, comments are created by preceding text with a # symbol; anything following # on the line is ignored by the Python interpreter. This helps in making the code more readable and maintainable.
@@ -45,7 +46,8 @@ print('This is the output') # Comment can also be written this way.
 [🔝](#Lesson-3-Coding-Basics)
 
 
-## 🌈 3.2 Input vs Output
+## 🌈 3.2 
+## Input vs Output
 
 Before diving into coding and digital literacy, it's essential to understand the basic concepts of input and output, as these are fundamental to how computers and digital systems work.
 
@@ -96,7 +98,8 @@ The combination of these input and output methods makes Colab a versatile tool f
 [🔝](#Lesson-3-Coding-Basics)
 
 
-## 🌈 3.3 Variables
+## 🌈 3.3 
+## Variables
 
 ### 1. What is a Variable?
 
@@ -347,7 +350,8 @@ print("not x is", result_not)  # Output will be False because x is True
 [🔝](#Lesson-3-Coding-Basics)
 
 
-## 🌈 3.5 Functions
+## 🌈 3.5 
+## Functions
 
 Python functions are a fundamental concept in programming, allowing you to write reusable, organized, and efficient code. 
 
@@ -464,7 +468,8 @@ Finally, we print the value of result, which is 25.
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## 🌈 3.6 Module-library-package
+## 🌈 3.6 
+## Module-library-package
 
 **Modules:** Think of a module as a single file containing Python code. It might contain functions, variables, and classes which you can use once you import this module into your own code. It's like a toolbox that has a specific set of tools you can use.
 
