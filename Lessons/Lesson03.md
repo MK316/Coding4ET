@@ -5,7 +5,7 @@
 * 3.1 [Comments vs. codes, Run code cell](#Comments-vs-codes)
 * 3.2 [Input vs. output](#Input-vs-output)
 * 3.3 [Variables](#Variables)
-* 3.4 [Operators](#Operators)
+* 3.4 [Operators](#3.4-Operators)
 * 3.5 [Functions](#Functions)
 * 3.6 [Modules, libraries & packages](#module-library-package)
 
@@ -213,7 +213,7 @@ This example demonstrates creating variables, printing their values, and updatin
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## 3.4 Operators: 
+## 3.4 Operators
 
 🌈 Go to: [Colab code to demonstrate codes and apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/operators.ipynb)
 
