@@ -213,7 +213,7 @@ This example demonstrates creating variables, printing their values, and updatin
 
 [🔝](#Lesson-3-Coding-Basics)
 
-## 🌈 3.4 Operators
+## 🌈 3.4 Operators [Colab code to demonstrate codes and apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/operators.ipynb)
 
 Operators are special symbols in Python that carry out arithmetic or logical computation. They are essential for manipulating values and creating expressions.
 
