@@ -33,6 +33,10 @@
 ||Lesson 6. |[dataframe intro](https://github.com/MK316/Coding4ET/blob/main/Lessons/Dataframe.md), [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md), [Gradio](https://github.com/MK316/Coding4ET/blob/main/Lessons/gradio.md)|[vtense sample](https://github.com/MK316/Coding4ET/blob/main/verb_tense_sample.ipynb)|
 ||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
 
+### APP deployment practice:
+1. [Huggingface code](https://github.com/MK316/Coding4ET/blob/main/Lessons/huggingface_deploy.ipynb)
+2. Streamlit code
+
 ---
 
 ## Acknowledgment
