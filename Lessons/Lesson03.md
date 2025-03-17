@@ -233,6 +233,47 @@ Python operators can be classified into several categories:
 + Exponentiation (**): Raises the left operand to the power of the right operand. Example: x ** y
 + Floor Division (//): Divides and returns the integer part of the quotient. Ignores the digits after the decimal point. Example: x // y
 
+##### A simple calculator
+
+```
+def calculator():
+    print("Welcome to the Simple Calculator!")
+    print("You can perform addition, subtraction, multiplication, and division.\n")
+    
+    # Get the first number from the user
+    x = float(input("Enter the first number (x): "))
+    
+    # Get the operation from the user
+    operation = input("Choose the operation (+, -, *, /): ")
+    
+    # Get the second number from the user
+    y = float(input("Enter the second number (y): "))
+    
+    # Perform the calculation based on the operation
+    if operation == '+':
+        result = x + y
+        print(f"The result of {x} + {y} is {result}.")
+    elif operation == '-':
+        result = x - y
+        print(f"The result of {x} - {y} is {result}.")
+    elif operation == '*':
+        result = x * y
+        print(f"The result of {x} * {y} is {result}.")
+    elif operation == '/':
+        # Check if the second number is not zero to avoid division by zero error
+        if y != 0:
+            result = x / y
+            print(f"The result of {x} / {y} is {result}.")
+        else:
+            print("Division by zero is not allowed.")
+    else:
+        print("Invalid operation. Please select one of +, -, *, or /.")
+
+# Run the calculator
+calculator()
+
+```
+
 ### B. Comparison Operators
 
 + Equal (==): True if both operands are equal. Example: x == y
@@ -243,11 +284,62 @@ Python operators can be classified into several categories:
 + Greater than or equal to (>=): True if the left operand is greater than or equal to the right operand. Example: x >= y
 + Less than or equal to (<=): True if the left operand is less than or equal to the right operand. Example: x <= y
 
+##### Sample app: numbrer guessing game
+```
+import random
+
+def number_guessing_game():
+    print("Welcome to the Number Guessing Game!")
+    print("I'm thinking of a number between 1 and 100.")
+    
+    # Generate a random number between 1 and 100
+    target_number = random.randint(1, 100)
+    
+    # Initialize the guess variable with a value that cannot be the target
+    guess = 0
+    
+    # Continue to ask for guesses until the user guesses the target number
+    while guess != target_number:
+        # Get the user's guess
+        guess = int(input("Enter your guess: "))
+        
+        # Provide feedback based on the guess
+        if guess < target_number:
+            print("It's greater than that.")
+        elif guess > target_number:
+            print("It's less than that.")
+        else:
+            print("Congratulations! You guessed the number correctly!")
+
+number_guessing_game()
+
+```
 ### C. Logical Operators
 
 + And (and): True if both operands are true. Example: x and y
 + Or (or): True if either of the operands is true. Example: x or y
 + Not (not): True if the operand is false (complements the operand). Example: not x
+
+```
+# Logical Operators in Python
+
+# Variables for the examples
+x = True
+y = False
+
+# The 'and' operator returns True only if both operands are true
+result_and = x and y
+print("x and y is", result_and)  # Output will be False because y is False
+
+# The 'or' operator returns True if at least one of the operands is true
+result_or = x or y
+print("x or y is", result_or)  # Output will be True because x is True
+
+# The 'not' operator returns True if the operand is false
+result_not = not x
+print("not x is", result_not)  # Output will be False because x is True
+
+```
 
 [🔝](#Lesson-3-Coding-Basics)
 
