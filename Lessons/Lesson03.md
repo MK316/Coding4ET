@@ -492,6 +492,8 @@ random_number = random.randint(1, 10)
 print("The random number is:", random_number)
 ```
 
+**_The above code will give an error. Why?_**
+
 ## Examine the differences
 
 Variable at the end vs. print(variable)
