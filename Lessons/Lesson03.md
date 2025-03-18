@@ -408,6 +408,7 @@ The return statement is used to exit a function and return a value. If there is 
 
 **Example: Counting words**
 ```
+# (Skip)
 # Lambda function to count the number of words in a sentence
 count_words = lambda sentence: len(sentence.split())
 
@@ -421,6 +422,9 @@ print(f"The sentence contains {word_count} words.")
 
 + Lambda Function: The lambda function **count_words** takes one argument **sentence**. It uses the string method **.split()** to divide the sentence into a list of words. The **len()** function then counts the number of items in this list, which corresponds to the number of words in the sentence.
 
+### Review and practice
++ ❄️ [Code to open](https://github.com/MK316/Coding4ET/blob/main/Exercises/Function_practice_basics0319.ipynb)
+  
 ### Best Practices
 + Descriptive Names: Use clear and descriptive names for functions.
 + Single Responsibility: Each function should do one thing well.
