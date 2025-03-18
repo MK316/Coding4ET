@@ -2,9 +2,10 @@
 
 ## 1. Read Aloud
 
-📌 Main title (heading 1), sub titles (heading 2)  
-📌 Characters in bold-faced  
-📌 Direct quotes in italic  
+📌 Use Main Title (Heading 1) for primary headings.  
+📌 Use Subtitles (Heading 2) for secondary headings.  
+📌 Represent character names in the story in bold.  
+📌 Encapsulate direct quotes in italics.   
 
 Once upon a time in a dense forest, there lived a clever fox named **Freddy**. Known for his wit and intelligence, Freddy's adventures were the stuff of legend among the forest inhabitants.
 
