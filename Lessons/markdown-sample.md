@@ -1,6 +1,11 @@
 # 🦊 Reading Lesson: "The Clever Fox"
 
 ## 1. Read Aloud
+
+📌 Main title (heading 1), sub titles (heading 2)
+📌 Characters in bold-faced
+📌 Direct quotes in italic
+
 Once upon a time in a dense forest, there lived a clever fox named **Freddy**. Known for his wit and intelligence, Freddy's adventures were the stuff of legend among the forest inhabitants.
 
 One day, Freddy discovered a shimmering pond while exploring a remote part of the forest. Curious, he crafted a fishing rod from a branch and vine, and soon caught a golden fish that surprisingly spoke, offering him three wishes for its release.
