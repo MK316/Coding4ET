@@ -20,7 +20,7 @@ _Note:_ If you haven't created a readme.md file when you made 'Practice' reposit
 
 ### Step 2: 🐣 Task to complete
 
-1. **Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file exactly as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md).**
+1. **Referring to the manual below, create Assign02.md file in your 'Practice' repository and edit the file with your story as shown in [this link](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown-sample.md)** (Find your story on our digital classroom, slides and material > Sample stories - Group1: story 1, Group2: story 2, Group 3: story 3). Also, use the image provided in each story.
 2. **This assignment should be completed collaboratively with group members, but each member must complete the assignment individually as well.**
 3. **You're allowed to copy text from the link. (due by 3/24)**
 
