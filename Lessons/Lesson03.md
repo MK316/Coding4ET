@@ -352,7 +352,8 @@ print("not x is", result_not)  # Output will be False because x is True
 
 ## 🌈 3.5 
 ## Functions
-
+ 
++ ❄️ Review and practice: [Code to open](https://github.com/MK316/Coding4ET/blob/main/Exercises/Function_practice_basics0319.ipynb)
 Python functions are a fundamental concept in programming, allowing you to write reusable, organized, and efficient code. 
 
 ### What is a Function?
@@ -421,9 +422,6 @@ print(f"The sentence contains {word_count} words.")
 **Explanation:**
 
 + Lambda Function: The lambda function **count_words** takes one argument **sentence**. It uses the string method **.split()** to divide the sentence into a list of words. The **len()** function then counts the number of items in this list, which corresponds to the number of words in the sentence.
-
-### Review and practice
-+ ❄️ [Code to open](https://github.com/MK316/Coding4ET/blob/main/Exercises/Function_practice_basics0319.ipynb)
   
 ### Best Practices
 + Descriptive Names: Use clear and descriptive names for functions.
