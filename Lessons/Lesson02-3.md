@@ -119,6 +119,9 @@ You can display inline code by wrapping text in backticks ( ), or create a code 
 This is a code block
 ```
 ```
+print("Hello")
+```
+```
 
 #### Horizontal lines
 To create a horizontal line, use three or more asterisks (***), dashes (---), or underscores (___).
