@@ -110,17 +110,17 @@ You can display inline code by wrapping text in backticks ( ), or create a code 
 + Inline Code:
 ```
 `This is inline code`
+
 ```
 
 + Code Blcok:
 ```markdown
 
 ```
-This is a code block
-```
+This is a code block (start line with ```, end line with ```): Using this you can display a code block in md file.
 ```
 print("Hello")
-```
+
 ```
 
 #### Horizontal lines
