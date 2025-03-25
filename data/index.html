@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Drag and Drop Story Arranger</title>
+<style>
+    #container {
+        width: 300px;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+    .draggable {
+        margin: 8px;
+        padding: 8px;
+        border: 1px solid #000;
+        background-color: #f4f4f4;
+        cursor: move;
+    }
+</style>
+</head>
+<body>
+<h2>Arrange the Story</h2>
+<div id="container">
+    <div class="draggable" draggable="true" ondragstart="drag(event)">Tom wakes up early.</div>
+    <div class="draggable" draggable="true" ondragstart="drag(event)">He eats breakfast.</div>
+    <div class="draggable" draggable="true" ondragstart="drag(event)">Tom goes to school.</div>
+    <div class="draggable" draggable="true" ondragstart="drag(event)">He studies English.</div>
+    <div class="draggable" draggable="true" ondragstart="drag(event)">Tom returns home.</div>
+</div>
+
+<script>
+function allowDrop(ev) {
+    ev.preventDefault();
+}
+
+function drag(ev) {
+    ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData("text");
+    ev.target.appendChild(document.getElementById(data));
+}
+</script>
+</body>
+</html>
