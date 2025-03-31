@@ -158,7 +158,8 @@ To create a task list, start items with a dash and a space, followed by [ ] for 
 
 ### Video to display
 
-[![Video Sample](http://www.youtube.com/watch?v=O0ZCvjhWUJk "Video Title")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0ZCvjhWUJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Practice Makes Perfect
