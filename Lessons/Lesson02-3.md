@@ -158,6 +158,10 @@ To create a task list, start items with a dash and a space, followed by [ ] for 
 
 ### Video to display
 
+```
+[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title")
+```
+
 [![Video Title](https://github.com/MK316/Digital-Literacy-Class/raw/main/images/introsample.png)](http://www.youtube.com/watch?v=O0ZCvjhWUJk "Intro")
 
 
