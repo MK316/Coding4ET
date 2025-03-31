@@ -156,6 +156,11 @@ Task Lists
 To create a task list, start items with a dash and a space, followed by [ ] for an incomplete task or [x] for a completed task.
 ```
 
+### Video to display
+
+[![Video Sample](http://www.youtube.com/watch?v=O0ZCvjhWUJk "Video Title")
+
+
 ## Practice Makes Perfect
 The best way to learn Markdown is by practice. Try using Markdown to format your notes, write blog posts, or document your projects. As you become more comfortable with the syntax, you'll find that Markdown is an invaluable tool for writing on the web.
 
