@@ -2,6 +2,7 @@
 
 + Using Colab and Gradio
 + This manual introduces DataFrame basics, CSV handling in Colab, and builds toward creating a simple Gradio-based language application. Each section progressively increases in complexity, with hands-on coding examples and practice questions.
++ [Code file for practice](https://github.com/MK316/Coding4ET/blob/main/Lessons/dataframe_practice1.ipynb)
 
 ## 1. Introduction to DataFrames
 A DataFrame is a 2D data structure, like a table, with rows and columns. It is part of the pandas library in Python.
