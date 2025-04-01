@@ -17,6 +17,21 @@ For instance,
 |100|Elliot|89|95|
 
 ```
+# Create a dataframe
+import pandas as pd  # Import pandas library
+
+# Example DataFrame
+data = {
+    'Name': ['Mary', 'Tom', 'Jane'],
+    'Music': [87, 67, 90],
+    'Math': [80, 87, 70]
+}
+
+df = pd.DataFrame(data)  # Create a DataFrame from the dictionary
+print(df)  # Display the DataFrame
+```
+
+```
 import pandas as pd  # Import pandas library
 
 # Example DataFrame
