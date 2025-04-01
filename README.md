@@ -30,7 +30,7 @@
 ||| 4.6 Set||
 ||| 4.7 Boolean, NoneType||
 ||Lesson 5. |[Multimodality](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson05.md)|🐳 [EX5](https://github.com/MK316/Coding4ET/blob/main/Multimodality_practice.ipynb)|
-||Lesson 6. |[dataframe intro](https://github.com/MK316/Coding4ET/blob/main/Lessons/Dataframe.md), [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md), [Gradio](https://github.com/MK316/Coding4ET/blob/main/Lessons/gradio.md)|[vtense sample](https://github.com/MK316/Coding4ET/blob/main/verb_tense_sample.ipynb)|
+||Lesson 6. |[dataframe intro](https://github.com/MK316/Coding4ET/blob/main/Lessons/Dataframe.md), [Designing language apps](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson06.md), [Gradio](https://github.com/MK316/Coding4ET/blob/main/Lessons/gradio.md)|[dataframe practice](https://github.com/MK316/Coding4ET/blob/main/Lessons/dataframe_practice1.ipynb), [vtense sample](https://github.com/MK316/Coding4ET/blob/main/verb_tense_sample.ipynb)|
 ||Lesson 7. |Dataframe:[Part I.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md), [Part II.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07b.md), [Part III.](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07c.md)||
 
 ### APP deployment practice:
