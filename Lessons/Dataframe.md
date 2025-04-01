@@ -30,6 +30,7 @@ data = {
 df = pd.DataFrame(data)  # Create a DataFrame from the dictionary
 print(df)  # Display the DataFrame
 ```
+#### Applied: Dictionary sample
 
 ```
 import pandas as pd  # Import pandas library
