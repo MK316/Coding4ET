@@ -69,7 +69,11 @@ Output in csv file:
 |1|  banana|   A long, curved fruit with a soft, starchy interior, typically yellow when ripe.|
 |2|  cherry|   A small, round, red fruit with a juicy interior and a pit in the center.|
 
+Saving dataframe as csv file
 
+```
+df.to_csv('output.csv', index=False)
+```
 
 ## 2. Loading and Saving CSV Files in Colab
 CSV files are common for storing data. Here's how to handle them in Google Colab.
