@@ -1,5 +1,5 @@
 # 📗 Coding4ET
-**Python Coding Basics for English Teachers  (Updated as of Feb. 12, 2025)**
+**Python Coding Basics for English Teachers  (Updated as of Feb. 8, 2026)**
 
 **🔸 [Acknowledgment & Overview](#Acknowledgment)**
 
