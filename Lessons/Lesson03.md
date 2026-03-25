@@ -132,12 +132,12 @@ Here, x is a variable of type int, and y is a variable of type str (string).
 
 Choose a random name:
 
-The code below shows variables on the left and their values on the right
 
-'''
+
+```
 import random
 
-
+# The code below shows variables on the left and their values on the right
 
 name1 = "Emma"
 name2 = "Liam"
@@ -155,7 +155,7 @@ names = [name1, name2, name3, name4, name5, name6, name7, name8, name9, name10]
 random_name = random.choice(names)
 
 print(random_name)
-'''
+```
 ### 3. Variable Types
 
 Python has various data types including:
