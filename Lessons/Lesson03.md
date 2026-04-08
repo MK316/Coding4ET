@@ -318,6 +318,8 @@ calculator()
 + Greater than or equal to (>=): True if the left operand is greater than or equal to the right operand. Example: x >= y
 + Less than or equal to (<=): True if the left operand is less than or equal to the right operand. Example: x <= y
 
+# 4/15 To continue from here.
+
 ##### Sample app: numbrer guessing game
 ```
 import random
