@@ -1,5 +1,5 @@
 ## 🌀 Assignment01 (Lesson 2)
-Due by Mar.12 (before the scheduled class)
+Due by 9.17 (before the scheduled class)
 
 ### DIY Setting Up GitHub and Google Colab
 
